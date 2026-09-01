@@ -6,7 +6,11 @@ All notable changes to the Gainwell Servers project are documented here.
 
 ### Added
 - **README.md**: Comprehensive project documentation with setup instructions, column mapping reference, usage examples, and troubleshooting guide
-- **Pre-commit Hook**: Automated Git hook requiring changelog.md updates before every commit
+- **Pre-commit Hook** (Enhanced): Automated Git hook enforcing:
+  - changelog.md updates required for all commits with code changes
+  - README.md changes must include changelog.md updates
+  - Clear error messages with resolution steps
+  - Bypass option via `--no-verify` for special cases
 - **System Column Analysis** (`System_analysis_query.sql`): Comprehensive SQL query to analyze Excel System column values against all sts.server table columns (System, ServerDescription, ServerType, PrimaryFunction, ApplicationName, Environment)
 - **Analysis Scripts**:
   - `analyze_system.ps1`: PowerShell script to extract and analyze System column values from SQL updates
