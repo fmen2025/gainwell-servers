@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Excel vs sts.server Comparison Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+        .container { max-width: 1000px; margin: auto; background-color: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1 { color: #333; border-bottom: 3px solid #0066cc; padding-bottom: 10px; }
+        h2 { color: #0066cc; margin-top: 20px; }
+        .summary-box { background-color: #e7f3ff; border-left: 4px solid #0066cc; padding: 15px; margin: 15px 0; }
+        .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0; }
+        .info-item { background-color: #f9f9f9; padding: 15px; border-radius: 5px; border: 1px solid #ddd; }
+        .info-item strong { color: #0066cc; }
+        .queries { background-color: #f9f9f9; padding: 15px; border-radius: 5px; margin: 15px 0; }
+        .query { margin: 15px 0; padding: 10px; background-color: #fff; border-left: 4px solid #28a745; }
+        .query-title { font-weight: bold; color: #28a745; }
+        .query-desc { color: #666; margin-top: 5px; }
+        .footer { margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #999; font-size: 12px; }
+        table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+        th { background-color: #0066cc; color: white; padding: 10px; text-align: left; }
+        td { padding: 10px; border-bottom: 1px solid #ddd; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Excel vs sts.server Comparison Report</h1>
+        <p><strong>Generated:</strong> 2026-08-26</p>
+        
+        <div class="summary-box">
+            <strong>Summary:</strong> This report compares 951 distinct server names from Excel (Gainwell Servers_20260820.xlsx) against the sts.server database table to identify which servers exist and which are missing.
+        </div>
+
+        <h2>Data Source</h2>
+        <div class="info-grid">
+            <div class="info-item">
+                <strong>Excel File:</strong><br>
+                C:\Feven\Hanna\2026\Gainwell Servers_20260820.xlsx<br><br>
+                <strong>Column Used:</strong> Name<br>
+                <strong>Data Tab:</strong> data<br>
+                <strong>Total Servers:</strong> 951 (excluding "(unknown)")
+            </div>
+            <div class="info-item">
+                <strong>Database Table:</strong><br>
+                sts.server<br><br>
+                <strong>Column Compared:</strong> Servername<br>
+                <strong>Match Type:</strong> Case-insensitive<br>
+                <strong>Connection Status:</strong> Run queries manually in SQL Server
+            </div>
+        </div>
+
+        <h2>SQL Queries Available</h2>
+        <div class="queries">
+            <div class="query">
+                <div class="query-title">QUERY 1: Count Matching Servers</div>
+                <div class="query-desc">
+                    Returns: Single number showing how many Excel servers exist in sts.server table<br>
+                    Use when: You want a quick overview of server coverage
+                </div>
+            </div>
+            
+            <div class="query">
+                <div class="query-title">QUERY 2: List Matching Servers</div>
+                <div class="query-desc">
+                    Returns: List of all server names that exist in both Excel and sts.server<br>
+                    Use when: You want to see which servers are already defined in sts.server
+                </div>
+            </div>
+            
+            <div class="query">
+                <div class="query-title">QUERY 3: List Missing Servers</div>
+                <div class="query-desc">
+                    Returns: List of server names from Excel that DO NOT exist in sts.server<br>
+                    Use when: You want to identify servers that need to be added to sts.server
+                </div>
+            </div>
+        </div>
+
+        <h2>How to Run the Queries</h2>
+        <table>
+            <tr>
+                <th>Step</th>
+                <th>Action</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Open SQL Server Management Studio (SSMS)</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Connect to your SQL Server instance that contains sts.server table</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>File → Open → c:\projects\GainwellServers_20260820\output\sts_server_comparison.sql</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Select and execute QUERY 1 first (to get count)</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Execute QUERY 2 (to see matching servers)</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Execute QUERY 3 (to see missing servers)</td>
+            </tr>
+        </table>
+
+        <h2>Expected Results Interpretation</h2>
+        <table>
+            <tr>
+                <th>Query 1 Result</th>
+                <th>Meaning</th>
+            </tr>
+            <tr>
+                <td>0</td>
+                <td>No Excel servers found in sts.server (complete mismatch)</td>
+            </tr>
+            <tr>
+                <td>1 - 950</td>
+                <td>Partial match: Some servers exist, some are missing</td>
+            </tr>
+            <tr>
+                <td>951</td>
+                <td>All Excel servers exist in sts.server (perfect match)</td>
+            </tr>
+        </table>
+
+        <h2>Next Steps</h2>
+        <ul>
+            <li>Review results from QUERY 1 to understand overall coverage</li>
+            <li>Use QUERY 2 output to validate existing server entries</li>
+            <li>Use QUERY 3 output to identify servers needing to be added to sts.server</li>
+            <li>Consider maintenance actions based on the findings</li>
+        </ul>
+
+        <div class="footer">
+            <strong>Report Files:</strong><br>
+            - SQL Queries: sts_server_comparison.sql<br>
+            - Text Summary: sts_server_summary.txt<br>
+            - HTML Report: sts_server_comparison_report.html (this file)
+        </div>
+    </div>
+</body>
+</html>

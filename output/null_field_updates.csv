@@ -1,0 +1,2833 @@
+ServerName,FieldName,CurrentValue,ProposedValue
+(unknown),System,,Azure Analytics
+(unknown),Purpose,,Azure Domain Controller
+(unknown),Supportgroup,,MMIS Support Data Warehouse Azure
+ag03ndcui00114,System,,SFTP
+ag03ndcui00114,Purpose,,LDOM/Zone
+ag03ndcui00114,Supportgroup,,Legacy SFTP SW ADMIN
+ag03ndcwt70022,System,,InterChange
+ag03ndcwt70022,Purpose,,TennCare Interchange XenApp
+ag03ndcwt70022,Supportgroup,,INTERCHANGE SW ADMIN
+ag03ndcwt70023,System,,InterChange
+ag03ndcwt70023,Purpose,,TennCare Interchange XenApp
+ag03ndcwt70023,Supportgroup,,INTERCHANGE SW ADMIN
+ag03ndcwt70024,System,,InterChange
+ag03ndcwt70024,Purpose,,TennCare Interchange XenApp
+ag03ndcwt70024,Supportgroup,,INTERCHANGE SW ADMIN
+ag03ndcwt70025,System,,InterChange
+ag03ndcwt70025,Purpose,,TennCare Interchange XenApp
+ag03ndcwt70025,Supportgroup,,INTERCHANGE SW ADMIN
+ag03ndcwt70026,System,,InterChange
+ag03ndcwt70026,Purpose,,TennCare Interchange XenApp
+ag03ndcwt70026,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcui00104,System,,SFTP
+ag03sdcui00104,Purpose,,"LDOM/Zone
+
+Per INC0561804 - This server was retired since it was retired by STS in 2021. Retired manually."
+ag03sdcui00104,Supportgroup,,Legacy SFTP SW ADMIN
+ag03sdcwt00006,System,,InterChange
+ag03sdcwt00006,Purpose,,Citrix XenApp Server
+ag03sdcwt00006,Supportgroup,,TennCare Technical Service Desk
+ag03sdcwt70019,System,,EOG
+ag03sdcwt70019,Purpose,,Citrix Virtual Apps
+ag03sdcwt70019,Supportgroup,,EOG SW ADMIN
+ag03sdcwt70020,System,,EOG
+ag03sdcwt70020,Purpose,,Citrix Virtual Apps
+ag03sdcwt70020,Supportgroup,,EOG SW ADMIN
+ag03sdcwt70021,System,,EOG
+ag03sdcwt70021,Purpose,,Citrix Virtual Apps
+ag03sdcwt70021,Supportgroup,,EOG SW ADMIN
+ag03sdcwt70022,System,,InterChange
+ag03sdcwt70022,Purpose,,TennCare Interchange XenApp
+ag03sdcwt70022,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcwt70023,System,,InterChange
+ag03sdcwt70023,Purpose,,TennCare Interchange XenApp
+ag03sdcwt70023,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcwt70024,System,,InterChange
+ag03sdcwt70024,Purpose,,TennCare Interchange XenApp
+ag03sdcwt70024,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcwt70025,System,,InterChange
+ag03sdcwt70025,Purpose,,TennCare Interchange XenApp
+ag03sdcwt70025,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcwt70026,System,,InterChange
+ag03sdcwt70026,Purpose,,TennCare Interchange XenApp
+ag03sdcwt70026,Supportgroup,,INTERCHANGE SW ADMIN
+ag03sdcwt80012,System,,EOG Citrix
+ag03sdcwt80012,Purpose,,Citrix Virtual Apps
+ag03sdcwt80012,Supportgroup,,MMIS Support Backend Apps EOG
+ag03sdcwt80013,System,,EOG Citrix
+ag03sdcwt80013,Purpose,,Citrix Virtual Apps
+ag03sdcwt80013,Supportgroup,,MMIS Support Backend Apps EOG
+ag03sdcwt80014,System,,EOG Citrix
+ag03sdcwt80014,Purpose,,Citrix Virtual Apps
+ag03sdcwt80014,Supportgroup,,MMIS Support Backend Apps EOG
+ah5719006ub003,System,,Interchange
+ah5719006ub003,Purpose,,Oracle DR dbs - tnhisp1 and tnmisp1
+ah5719006ub003,Supportgroup,,ORACLE DB ADMIN DXC
+ah5719006ub005,System,,InterChange
+ah5719006ub005,Purpose,,Oracle Financial
+ah5719006ub005,Supportgroup,,UNIX OS ADMIN
+AH5719006UB007,System,,Interchange
+AH5719006UB007,Purpose,,Created Temp for Decom.
+AH5719006UB007,Supportgroup,,Unix Admin
+ah57c00la04001,System,,Azure Analytics
+ah57c00la04001,Purpose,,CrowdStrike (SIEM) for Arcsight
+ah57c00la04001,Supportgroup,,Azure SW Admin GWT
+ah57c00la04002,System,,Azure Analytics
+ah57c00la04002,Purpose,,SAS UI
+ah57c00la04002,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04003,System,,Azure Analytics
+ah57c00la04003,Purpose,,SAS Master
+ah57c00la04003,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04004,System,,Azure Analytics
+ah57c00la04004,Purpose,,SAS Worker
+ah57c00la04004,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04005,System,,Azure Analytics
+ah57c00la04005,Purpose,,SAS Worker
+ah57c00la04005,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04006,System,,Azure Analytics
+ah57c00la04006,Purpose,,SAS UI
+ah57c00la04006,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04007,System,,Azure Analytics
+ah57c00la04007,Purpose,,SAS Master
+ah57c00la04007,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04008,System,,Azure Analytics
+ah57c00la04008,Purpose,,SAS Worker
+ah57c00la04008,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04009,System,,Azure Analytics
+ah57c00la04009,Purpose,,SAS Worker
+ah57c00la04009,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04010,System,,CrowdStrike (SIEM) for Arcsight
+ah57c00la04010,Purpose,,Security
+ah57c00la04010,Supportgroup,,Azure SW Admin GWT
+ah57c00la04011,System,,Azure Analytics
+ah57c00la04011,Purpose,,EOC (Corticon)
+ah57c00la04011,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04012,System,,Azure Analytics
+ah57c00la04012,Purpose,,EOC (Corticon)
+ah57c00la04012,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04013,System,,Azure Analytics
+ah57c00la04013,Purpose,,EOC (Corticon)
+ah57c00la04013,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04014,System,,Azure Analytics
+ah57c00la04014,Purpose,,Splunk Heavy Forwarder
+ah57c00la04014,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00la04015,System,,CrowdStrike (SIEM) for Arcsight
+ah57c00la04015,Purpose,,Security
+ah57c00la04015,Supportgroup,,Azure SW Admin GWT
+ah57c00la04016,System,,Security
+ah57c00la04016,Purpose,,Security
+ah57c00la04016,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04001,System,,Tableau
+ah57c00wa04001,Purpose,,Azure Analytics
+ah57c00wa04001,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00wa04002,System,,ETL
+ah57c00wa04002,Purpose,,Azure Analytics
+ah57c00wa04002,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04003,System,,Analytics
+ah57c00wa04003,Purpose,,Azure Analytics
+ah57c00wa04003,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04008,System,,Tableau
+ah57c00wa04008,Purpose,,Azure Analytics
+ah57c00wa04008,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00wa04009,System,,Tableau
+ah57c00wa04009,Purpose,,Azure Analytics
+ah57c00wa04009,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04010,System,,Qlik Compose
+ah57c00wa04010,Purpose,,ETL
+ah57c00wa04010,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04011,System,,Access
+ah57c00wa04011,Purpose,,Azure Analytics
+ah57c00wa04011,Supportgroup,,Azure SW Admin GWT
+ah57c00wa04101,System,,Primary Mid-Server for SNOW Discovery
+ah57c00wa04101,Purpose,,Azure Analytics
+ah57c00wa04101,Supportgroup,,ServiceNow Tier 2 Support
+ah57c00wa04105,System,,DA Data Science VM Python
+ah57c00wa04105,Purpose,,Azure Analytics
+ah57c00wa04105,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00wa04301,System,,Secondary Mid-Server for SNOW Discovery
+ah57c00wa04301,Purpose,,Azure Analytics
+ah57c00wa04301,Supportgroup,,ServiceNow Tier 2 Support
+ah57c00wa4201,System,,Analysis Services Gateway
+ah57c00wa4201,Purpose,,Azure Analytics
+ah57c00wa4201,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00wa4202,System,,Reporting
+ah57c00wa4202,Purpose,,Azure Analytics
+ah57c00wa4202,Supportgroup,,Azure SW Admin GWT
+ah57c00wa4305,System,,Analysis Services Gateway
+ah57c00wa4305,Purpose,,Azure Analytics
+ah57c00wa4305,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57c00ww04001,System,,IIS Web App / BPM Portals
+ah57c00ww04001,Purpose,,Azure Analytics
+ah57c00ww04001,Supportgroup,,Azure SW Admin GWT
+ah57c00ww04002,System,,IIS Web App / BPM Portals
+ah57c00ww04002,Purpose,,Azure Analytics
+ah57c00ww04002,Supportgroup,,Azure SW Admin GWT
+ah57ndcla00004,System,,ATP
+ah57ndcla00004,Purpose,,IIB App Server - Uses IPTables - OS patching can restart without app admin assistance.
+ah57ndcla00004,Supportgroup,,ATP SW ADMIN
+ah57ndcla00005,System,,ATP
+ah57ndcla00005,Purpose,,IIB App Server - Uses IPTables - OS patching can restart without app admin assistance.
+ah57ndcla00005,Supportgroup,,ATP SW ADMIN
+ah57ndcla00008,System,,ATP
+ah57ndcla00008,Purpose,,IIB App Server - OS patching can restart without app admin assistance.
+ah57ndcla00008,Supportgroup,,ATP SW ADMIN
+ah57ndcla00012,System,,ATP
+ah57ndcla00012,Purpose,,IIB App Server - OS patching can restart without app admin assistance.
+ah57ndcla00012,Supportgroup,,ATP SW ADMIN
+ah57ndcla00054,System,,ATP
+ah57ndcla00054,Purpose,,Oracle Database Firewall
+ah57ndcla00054,Supportgroup,,OAV SW ADMIN
+ah57ndcla00061,System,,Code Management
+ah57ndcla00061,Purpose,,Code Management - OS patching can restart without app admin assistance.
+ah57ndcla00061,Supportgroup,,CODE MANAGEMENT SW ADMIN
+ah57ndcla00066,System,,Autosys
+ah57ndcla00066,Purpose,,Autosys App
+ah57ndcla00066,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00067,System,,Autosys
+ah57ndcla00067,Purpose,,Autosys App
+ah57ndcla00067,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00068,System,,Autosys
+ah57ndcla00068,Purpose,,Autosys App
+ah57ndcla00068,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00147,System,,Autosys
+ah57ndcla00147,Purpose,,Autosys App
+ah57ndcla00147,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00148,System,,Autosys
+ah57ndcla00148,Purpose,,Autosys App
+ah57ndcla00148,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00149,System,,Autosys
+ah57ndcla00149,Purpose,,Autosys App
+ah57ndcla00149,Supportgroup,,MMIS Support INF UNIX
+ah57ndcla00168,System,,SOA Production-DR (RHEL8)
+ah57ndcla00168,Purpose,,IBM ACE
+ah57ndcla00168,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00169,System,,SOA Production-DR (RHEL8)
+ah57ndcla00169,Purpose,,IBM ACE
+ah57ndcla00169,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00170,System,,SOA Production-DR (RHEL8)
+ah57ndcla00170,Purpose,,IBM WAS
+ah57ndcla00170,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00171,System,,SOA Production-DR (RHEL8)
+ah57ndcla00171,Purpose,,IBM WAS
+ah57ndcla00171,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00172,System,,SOA Production-DR (RHEL8)
+ah57ndcla00172,Purpose,,IBM BAW
+ah57ndcla00172,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00173,System,,SOA Production-DR (RHEL8)
+ah57ndcla00173,Purpose,,IBM BAW
+ah57ndcla00173,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00174,System,,SOA Production-DR (RHEL8)
+ah57ndcla00174,Purpose,,Progress Corticon
+ah57ndcla00174,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00175,System,,SOA Production-DR (RHEL8)
+ah57ndcla00175,Purpose,,Progress Corticon
+ah57ndcla00175,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00176,System,,SOA Production-DR (RHEL8)
+ah57ndcla00176,Purpose,,IBM WSRR
+ah57ndcla00176,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla00177,System,,SOA Production-DR (RHEL8)
+ah57ndcla00177,Purpose,,IBM WSRR
+ah57ndcla00177,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01040,System,,SOA Dev
+ah57ndcla01040,Purpose,,SOA Application Server (WAS)
+ah57ndcla01040,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01041,System,,SOA Dev
+ah57ndcla01041,Purpose,,SOA Application Server (BPM)
+ah57ndcla01041,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01042,System,,SOA Dev
+ah57ndcla01042,Purpose,,SOA Application Server (WAS)
+ah57ndcla01042,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01043,System,,SOA Dev
+ah57ndcla01043,Purpose,,SOA Application Server (IIB)
+ah57ndcla01043,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01044,System,,SOA Dev
+ah57ndcla01044,Purpose,,SOA Application Server (WSRR)
+ah57ndcla01044,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01045,System,,SOA Test
+ah57ndcla01045,Purpose,,SOA Application Server (BPM)
+ah57ndcla01045,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01046,System,,SOA Test
+ah57ndcla01046,Purpose,,SOA Application Server (WAS)
+ah57ndcla01046,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01047,System,,SOA Test
+ah57ndcla01047,Purpose,,SOA Application Server (IIB)
+ah57ndcla01047,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01048,System,,SOA Test
+ah57ndcla01048,Purpose,,SOA Application Server (WAS)
+ah57ndcla01048,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01049,System,,SOA Test
+ah57ndcla01049,Purpose,,SOA Application Server (WSRR)
+ah57ndcla01049,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01050,System,,SOA Production-DR
+ah57ndcla01050,Purpose,,SOA Application Server (IIB)
+ah57ndcla01050,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01051,System,,SOA Production-DR
+ah57ndcla01051,Purpose,,SOA Application Server (IIB)
+ah57ndcla01051,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01052,System,,SOA Production-DR
+ah57ndcla01052,Purpose,,SOA Application Server (WAS)
+ah57ndcla01052,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01053,System,,SOA Production-DR
+ah57ndcla01053,Purpose,,SOA Application Server (WAS)
+ah57ndcla01053,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01054,System,,SOA Production-DR
+ah57ndcla01054,Purpose,,SOA Application Server (BPM)
+ah57ndcla01054,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01055,System,,SOA Production-DR
+ah57ndcla01055,Purpose,,SOA Application Server (BPM)
+ah57ndcla01055,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01056,System,,SOA Production-DR
+ah57ndcla01056,Purpose,,SOA Application Server (WAS)
+ah57ndcla01056,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01057,System,,SOA Production-DR
+ah57ndcla01057,Purpose,,SOA Application Server (WAS)
+ah57ndcla01057,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01058,System,,SOA Production-DR
+ah57ndcla01058,Purpose,,SOA Application Server (WSRR)
+ah57ndcla01058,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01059,System,,SOA Production-DR
+ah57ndcla01059,Purpose,,SOA Application Server (WSRR)
+ah57ndcla01059,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01060,System,,SOA UAT
+ah57ndcla01060,Purpose,,SOA Application Server (BPM)
+ah57ndcla01060,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01061,System,,SOA UAT
+ah57ndcla01061,Purpose,,SOA Application Server (IODM)
+ah57ndcla01061,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01062,System,,SOA UAT
+ah57ndcla01062,Purpose,,SOA Application Server (IIB)
+ah57ndcla01062,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01063,System,,SOA UAT
+ah57ndcla01063,Purpose,,SOA Application Server (WAS)
+ah57ndcla01063,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01064,System,,SOA UAT
+ah57ndcla01064,Purpose,,SOA Application Server (WSRR)
+ah57ndcla01064,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01066,System,,SOA Stage
+ah57ndcla01066,Purpose,,SOA Application Server (IIB)
+ah57ndcla01066,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01067,System,,SOA Stage
+ah57ndcla01067,Purpose,,SOA Application Server (IIB)
+ah57ndcla01067,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01068,System,,SOA Stage
+ah57ndcla01068,Purpose,,SOA Application Server (IIB)
+ah57ndcla01068,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01069,System,,SOA Stage
+ah57ndcla01069,Purpose,,SOA Application Server (IIB)
+ah57ndcla01069,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01070,System,,SOA Stage
+ah57ndcla01070,Purpose,,SOA Application Server (IIB)
+ah57ndcla01070,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01071,System,,SOA Stage
+ah57ndcla01071,Purpose,,SOA Application Server (IIB)
+ah57ndcla01071,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01072,System,,SOA Stage
+ah57ndcla01072,Purpose,,SOA Application Server (IIB)
+ah57ndcla01072,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01073,System,,SOA Stage
+ah57ndcla01073,Purpose,,SOA Application Server (IIB)
+ah57ndcla01073,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01074,System,,SOA Stage
+ah57ndcla01074,Purpose,,SOA Application Server (IIB)
+ah57ndcla01074,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01075,System,,SOA Stage
+ah57ndcla01075,Purpose,,SOA Application Server (IIB)
+ah57ndcla01075,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla01076,System,,SOA POC Rebuild
+ah57ndcla01076,Purpose,,SOA Application Server (WAS)
+ah57ndcla01076,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcla04204,System,,MMIS Dynatrace
+ah57ndcla04204,Purpose,,MMIS Dynatrace Cluster Active gate
+ah57ndcla04204,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57ndcla04205,System,,MMIS Dynatrace
+ah57ndcla04205,Purpose,,MMIS Dynatrace Cluster Active gate
+ah57ndcla04205,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57ndcla04206,System,,MMIS Dynatrace
+ah57ndcla04206,Purpose,,MMIS Dynatrace Environment Active Gate
+ah57ndcla04206,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57ndcla20002,System,,AGM
+ah57ndcla20002,Purpose,,AGM Application Server - OS patching can restart without app admin assistance
+ah57ndcla20002,Supportgroup,,ALM SW ADMIN
+ah57ndcla90013,Purpose,,NetBackup
+ah57ndcla90014,Purpose,,NetBackup
+ah57ndcla90015,Purpose,,NetBackup
+ah57ndclb03003,System,,Edifecs
+ah57ndclb03003,Purpose,,Oracle DB
+ah57ndclb03003,Supportgroup,,MMIS Support INF DBA
+ah57ndclc00002,System,,ATP
+ah57ndclc00002,Purpose,,Oracle RAC Node - Uses IPTables
+ah57ndclc00002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclc00007,System,,Shared RAC
+ah57ndclc00007,Purpose,,Oracle RAC Node
+ah57ndclc00007,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclc00008,System,,Shared RAC
+ah57ndclc00008,Purpose,,Oracle RAC Node
+ah57ndclc00008,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclc00010,System,,Shared RAC
+ah57ndclc00010,Purpose,,Oracle RAC Node
+ah57ndclc00010,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclc00011,System,,Shared RAC
+ah57ndclc00011,Purpose,,Oracle RAC Node
+ah57ndclc00011,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclc03005,System,,Oracle RAC - Sandbox
+ah57ndclc03005,Purpose,,Oracle Database - RAC - Sandbox DR Node 1
+ah57ndclc03005,Supportgroup,,MMIS Support INF DBA
+ah57ndclc03006,System,,Oracle RAC - Sandbox
+ah57ndclc03006,Purpose,,Oracle Database - RAC - Sandbox DR Node 2
+ah57ndclc03006,Supportgroup,,MMIS Support INF DBA
+ah57ndclc03007,System,,Oracle RAC
+ah57ndclc03007,Purpose,,Oracle Database - RAC - DR Node 1
+ah57ndclc03007,Supportgroup,,MMIS Support INF DBA
+ah57ndclc03008,System,,Oracle RAC
+ah57ndclc03008,Purpose,,Oracle Database - RAC - DR Node 2
+ah57ndclc03008,Supportgroup,,MMIS Support INF DBA
+ah57ndclc04003,System,,Oracle RAC
+ah57ndclc04003,Purpose,,Oracle Database - RAC - DR Node 1
+ah57ndclc04003,Supportgroup,,MMIS Support INF DBA
+ah57ndclc04004,System,,Oracle RAC
+ah57ndclc04004,Purpose,,Oracle Database - RAC - DR Node 2
+ah57ndclc04004,Supportgroup,,MMIS Support INF DBA
+ah57ndcli00003,System,,SOA
+ah57ndcli00003,Purpose,,Datapower
+ah57ndcli00003,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57ndcli00004,System,,SOA DEV
+ah57ndcli00004,Purpose,,Datapower Proxy
+ah57ndcli00004,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcli00006,System,,SOA
+ah57ndcli00006,Purpose,,Datapower
+ah57ndcli00006,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57ndclm00001,System,,Syslog
+ah57ndclm00001,Purpose,,Syslog - OS patching can restart without app admin assistance
+ah57ndclm00001,Supportgroup,,ATP SW ADMIN
+ah57ndclw00096,System,,SOA Production-DR
+ah57ndclw00096,Purpose,,SOA Web Server
+ah57ndclw00096,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclw00097,System,,SOA Production-DR
+ah57ndclw00097,Purpose,,SOA Web Server
+ah57ndclw00097,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclw00098,System,,SOA Stage
+ah57ndclw00098,Purpose,,SOA Web Server
+ah57ndclw00098,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclw00099,System,,SOA Stage
+ah57ndclw00099,Purpose,,SOA Web Server
+ah57ndclw00099,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclw00111,System,,SOA Production-DR (RHEL8)
+ah57ndclw00111,Purpose,,TMED Web Server
+ah57ndclw00111,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclw00112,System,,SOA Production-DR (RHEL8)
+ah57ndclw00112,Purpose,,TMED Web Server
+ah57ndclw00112,Supportgroup,,MMIS Support SOA - SOA
+ah57ndclx00002,System,,OEM
+ah57ndclx00002,Purpose,,Oracle Enterprise Manager
+ah57ndclx00002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndclx00004,System,,Oracle Enterprise Manager (OEM)
+ah57ndclx00004,Purpose,,Oracle Enterprise Manager - OS patching can restart without app admin assistance.
+ah57ndclx00004,Supportgroup,,MMIS Support INF DBA
+ah57ndclx00005,System,,Oracle Enterprise Manager (OEM)
+ah57ndclx00005,Purpose,,Oracle Enterprise Manager - OS patching can restart without app admin assistance.
+ah57ndclx00005,Supportgroup,,MMIS Support INF DBA
+ah57ndcpa00003,System,,PAM
+ah57ndcpa00003,Purpose,,PAM Appliance
+ah57ndcpa00003,Supportgroup,,PAM SW Admin
+ah57ndcpa00004,System,,PAM
+ah57ndcpa00004,Purpose,,PAM Appliance
+ah57ndcpa00004,Supportgroup,,PAM SW Admin
+ah57ndcpa00005,System,,PAM
+ah57ndcpa00005,Purpose,,PAM Debian appliance
+ah57ndcpa00005,Supportgroup,,UNIX OS ADMIN
+ah57ndcpi00005-c,System,,SOA Stage
+ah57ndcpi00005-c,Purpose,,Datapower
+ah57ndcpi00005-c,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcpi00006-c,System,,SOA Stage
+ah57ndcpi00006-c,Purpose,,Datapower
+ah57ndcpi00006-c,Supportgroup,,MMIS Support SOA - SOA
+ah57ndcub04001,System,,T7 Database Host
+ah57ndcub04001,Purpose,,Oracle Database Zone - MMIS -  OEMN
+ah57ndcub04001,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04002,System,,T7 Database
+ah57ndcub04002,Purpose,,Oracle Database Zone
+ah57ndcub04002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04003,System,,T7 Database
+ah57ndcub04003,Purpose,,"Oracle Database Zone
+
+8:31 AM 4/1/2025 Retired per Chad Williams - Anthony Bronsdon"
+ah57ndcub04003,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04004,System,,T7 Database
+ah57ndcub04004,Purpose,,Oracle Database Zone
+ah57ndcub04004,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04005,System,,T7 Database
+ah57ndcub04005,Purpose,,Oracle Database Zone
+ah57ndcub04005,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04006,System,,T7 Database
+ah57ndcub04006,Purpose,,Oracle Database Zone
+ah57ndcub04006,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04007,System,,SIEBEL
+ah57ndcub04007,Purpose,,"Oracle Database - Siebel - Non-Prod - SBLSBX20, SBLDEV20, SBLUAT20, SBLSTG20"
+ah57ndcub04007,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04008,System,,T-7 Database Host
+ah57ndcub04008,Purpose,,Oracle Database - CMOD/FileNet - RMAN restore CMOD/FileNet databases in case of DR
+ah57ndcub04008,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04009,System,,T7 Database Host
+ah57ndcub04009,Purpose,,"Oracle Database Zone - MMIS - T20HISM1, T20MISM1"
+ah57ndcub04009,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04010,System,,T7 Database Host
+ah57ndcub04010,Purpose,,"Oracle Database Zone - MMIS - T21HISM1, T21MISM1"
+ah57ndcub04010,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04011,System,,T7 Database Host
+ah57ndcub04011,Purpose,,"Oracle Database Zone - MMIS - T22HISM1, T22MISM1"
+ah57ndcub04011,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04012,System,,T7 Database Host
+ah57ndcub04012,Purpose,,"Oracle Database Zone - MMIS - T23HISM1, T23MARM1,  T23MISM1, T23SURM1"
+ah57ndcub04012,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04013,System,,T7 Database Host
+ah57ndcub04013,Purpose,,"Oracle Database Zone - MMIS - T24HISM1, T24MARM1,  T24MISM1, T24SURM1"
+ah57ndcub04013,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04014,System,,T7 Database Host
+ah57ndcub04014,Purpose,,"Oracle Database Zone - MMIS - T20HISA1, T20MISA1"
+ah57ndcub04014,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04015,System,,T7 Database Host
+ah57ndcub04015,Purpose,,"Oracle Database Zone - MMIS - T21HISA1, T21MISA1"
+ah57ndcub04015,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04016,System,,T7 Database Host
+ah57ndcub04016,Purpose,,"Oracle Database Zone - MMIS - T22HISM1, T22MARM1,  T22MISM1, T22SURM1"
+ah57ndcub04016,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04017,System,,T7 Database Host
+ah57ndcub04017,Purpose,,"Oracle Database Zone - MMIS - T23HISA1, T23MISA1"
+ah57ndcub04017,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04018,System,,T7 Database
+ah57ndcub04018,Purpose,,"Oracle Database Zone
+
+8:31 AM 4/1/2025 Retired per Chad Williams - Anthony Bronsdon"
+ah57ndcub04018,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04019,System,,T-7 Database Host
+ah57ndcub04019,Purpose,,"Oracle Database - Siebel - Non-Prod - SBLSBX, SBLDEV17, SBLUAT17"
+ah57ndcub04019,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04020,System,,T7 Database
+ah57ndcub04020,Purpose,,Oracle Database Zone
+ah57ndcub04020,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04021,System,,T7 Database
+ah57ndcub04021,Purpose,,"Oracle database - MMIS - tnhisa1
+tnmara1
+tnmisa1
+tnsuma1
+tnsura1"
+ah57ndcub04021,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04022,System,,T7 Database
+ah57ndcub04022,Purpose,,"Oracle Database - MMIS - tnhism1
+tnmarm1
+tnmism1
+tnsurm1"
+ah57ndcub04022,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04023,System,,T7 Database
+ah57ndcub04023,Purpose,,Oracle Database Zone
+ah57ndcub04023,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04024,System,,T7 Database Host
+ah57ndcub04024,Purpose,,"Oracle Database Zone
+
+8:31 AM 4/1/2025 Retired per Chad Williams - Anthony Bronsdon"
+ah57ndcub04024,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04025,System,,T7 Database Host
+ah57ndcub04025,Purpose,,Oracle Database Zone  - IP in test range.
+ah57ndcub04025,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04026,System,,T7 Database Host
+ah57ndcub04026,Purpose,,NFS Share
+ah57ndcub04026,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04026,Managedbygroup,,TENNCARE Enterprise Services
+ah57ndcub04026,Maintenanceschedule,,"Quarterly Patching – 2nd Sunday Feb, May, Aug, Nov"
+ah57ndcub04027,System,,T7 Database Host
+ah57ndcub04027,Purpose,,"Oracle Database Zone - MMIS - T30HISA1, T30MARA1, T30MISA1, T30SURA1"
+ah57ndcub04027,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04028,System,,T7 Database Host
+ah57ndcub04028,Purpose,,"Oracle Database Zone - MMIS - T25HISM1, T25MISM1"
+ah57ndcub04028,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04029,System,,T7 Database Host
+ah57ndcub04029,Purpose,,"Oracle Database Zone - MMIS - T26HISM1, T26MISM1"
+ah57ndcub04029,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04030,System,,T7 Database Host
+ah57ndcub04030,Purpose,,"Oracle Database Zone - MMIS - T27HISM1, T27MISM1, T27MARM1, T27SURM1"
+ah57ndcub04030,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04031,System,,T7 Database Host
+ah57ndcub04031,Purpose,,"Oracle Database Zone - MMIS - TNHIST2, TNMIST2, TNMART2, TNSURT2"
+ah57ndcub04031,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04032,System,,T7 Database Host
+ah57ndcub04032,Purpose,,"Oracle Database Zone - MMIS - T24HISA1, T24MISA1"
+ah57ndcub04032,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04033,System,,T7 Database Host
+ah57ndcub04033,Purpose,,"Oracle Database Zone - MMIS - T25HISA1, T25MISA1"
+ah57ndcub04033,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04034,System,,T7 Database Host
+ah57ndcub04034,Purpose,,"Oracle Database Zone - MMIS - T26HISA1, T26MISA1"
+ah57ndcub04034,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04035,System,,T7 Database Host
+ah57ndcub04035,Purpose,,"Oracle Database Zone - MMIS - T27HISA1, T27MISA1"
+ah57ndcub04035,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04036,System,,T7 Database Host
+ah57ndcub04036,Purpose,,"Oracle Database Zone - MMIS - T28HISA1, T28MARA1, T28MISA1, T28SURA1"
+ah57ndcub04036,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04037,System,,T7 Database Host
+ah57ndcub04037,Purpose,,"Oracle Database Zone - MMIS - T29HISA1, T29MARA1, T29MISA1, T29SURA1"
+ah57ndcub04037,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04038,System,,T7 Database Host
+ah57ndcub04038,Purpose,,"Oracle Database Zone - MMIS - TNHISA3, TNMARA3, TNMISA3, TNSURA3"
+ah57ndcub04038,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04039,System,,T7 Database Host
+ah57ndcub04039,Purpose,,"Oracle Database Zone - MMIS - TNHISM2, TNMISM2"
+ah57ndcub04039,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04040,System,,T7 Database
+ah57ndcub04040,Purpose,,Oracle Database Zone
+ah57ndcub04040,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04041,System,,SFTP
+ah57ndcub04041,Purpose,,LDOM/Zone
+ah57ndcub04041,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04042,System,,SFTP
+ah57ndcub04042,Purpose,,LDOM/Zone
+ah57ndcub04042,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04043,System,,SFTP
+ah57ndcub04043,Purpose,,LDOM/Zone
+ah57ndcub04043,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04044,System,,SFTP
+ah57ndcub04044,Purpose,,LDOM/Zone
+ah57ndcub04044,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04045,System,,SFTP
+ah57ndcub04045,Purpose,,LDOM/Zone
+ah57ndcub04045,Supportgroup,,Legacy SFTP SW ADMIN
+ah57ndcub04046,System,,SFTP
+ah57ndcub04046,Purpose,,LDOM/Zone
+ah57ndcub04046,Supportgroup,,Legacy SFTP SW ADMIN
+ah57ndcub04047,System,,SFTP
+ah57ndcub04047,Purpose,,LDOM/Zone
+ah57ndcub04047,Supportgroup,,Legacy SFTP SW ADMIN
+ah57ndcub04051,System,,T-7 Database Host
+ah57ndcub04051,Purpose,,"Oracle Database Zone - ALM/DataStage - Non-Prod - TNALMM1, TNDSGA32, TNDSGU32, TNDSTGA31, TNDSTGT3, TNDSTGU31"
+ah57ndcub04051,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04052,System,,T7 Database
+ah57ndcub04052,Purpose,,Oracle Database Zone
+ah57ndcub04052,Supportgroup,,ORACLE DB ADMIN DXC
+ah57ndcub04053,System,,T7 Database Host
+ah57ndcub04053,Purpose,,"Forgerock Dev
+
+8:31 AM 4/1/2025 Retired per Chad Williams - Anthony Bronsdon"
+ah57ndcub04053,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04054,System,,T-7 Database Host
+ah57ndcub04054,Purpose,,"Oracle Database Zone - CMOD/FileNet - Non-Prod - ARSDV105, ARSTS105, ARSSB105, IBMCNVNA, IBMCNVND, IBMCNVNS, IBMFNVNA, IBMFNVND, IBMFNVNS, IDBP55NA, IDBP55ND, IDBP55NS"
+ah57ndcub04054,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04055,System,,T7 Database Host
+ah57ndcub04055,Purpose,,Forgerock LDAP
+ah57ndcub04055,Supportgroup,,MMIS Support INF UNIX
+ah57ndcub04056,System,,T-8 Database Host
+ah57ndcub04056,Purpose,,"Interchange DR db - MMIS - TNHISDR, TNMISDR, TNDOCP"
+ah57ndcub04056,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04057,System,,T-8 Database Host
+ah57ndcub04057,Purpose,,"Interchange Data Warehouse (DR) - MMIS - TNMARDR, TNSURDR"
+ah57ndcub04057,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04058,System,,T7 Database Host
+ah57ndcub04058,Purpose,,Oracle Database
+ah57ndcub04058,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04059,System,,T7 Database Host
+ah57ndcub04059,Purpose,,"Oracle Database Zone - MMIS - HIS21DE, MIS21DE"
+ah57ndcub04059,Supportgroup,,MMIS Support INF DBA
+ah57ndcub04060,System,,T8 Database Host
+ah57ndcub04060,Purpose,,Oracle Database - SAS - DR - SASDR
+ah57ndcub04060,Supportgroup,,MMIS Support INF DBA
+ah57ndcuh04001,System,,T7 Database Host
+ah57ndcuh04001,Purpose,,Oracle Database Host
+ah57ndcuh04001,Supportgroup,,MMIS Support INF UNIX
+ah57ndcuh04002,System,,T7 Database Host
+ah57ndcuh04002,Purpose,,Oracle Database Host
+ah57ndcuh04002,Supportgroup,,MMIS Support INF UNIX
+ah57ndcuh04003,System,,SFTP
+ah57ndcuh04003,Purpose,,LDOM/Zone Host
+ah57ndcuh04003,Supportgroup,,MMIS Support INF UNIX
+ah57ndcuh04004,System,,SFTP
+ah57ndcuh04004,Purpose,,LDOM/Zone Host
+ah57ndcuh04004,Supportgroup,,MMIS Support INF UNIX
+ah57ndcuh04005,System,,T8 Database Host
+ah57ndcuh04005,Purpose,,T8 Oracle Host
+ah57ndcuh04005,Supportgroup,,MMIS Support INF UNIX
+ah57ndcwa00051,System,,Code Management
+ah57ndcwa00051,Purpose,,Code Management - OS patching can restart without app admin assistance.
+ah57ndcwa00051,Supportgroup,,CODE MANAGEMENT SW ADMIN
+ah57ndcwa00052,System,,Siebel
+ah57ndcwa00052,Purpose,,Siebel 2016
+ah57ndcwa00052,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00053,System,,Siebel
+ah57ndcwa00053,Purpose,,Siebel 2016
+ah57ndcwa00053,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00054,System,,Siebel
+ah57ndcwa00054,Purpose,,Siebel 2016
+ah57ndcwa00054,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00055,System,,Siebel
+ah57ndcwa00055,Purpose,,Siebel 2016
+ah57ndcwa00055,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00056,System,,Siebel
+ah57ndcwa00056,Purpose,,Siebel 2016 App
+ah57ndcwa00056,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00057,System,,Siebel
+ah57ndcwa00057,Purpose,,Siebel 2016 App
+ah57ndcwa00057,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00058,System,,Siebel
+ah57ndcwa00058,Purpose,,Siebel 2016 App
+ah57ndcwa00058,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00095,System,,PAM
+ah57ndcwa00095,Purpose,,CA Authentication
+ah57ndcwa00095,Supportgroup,,PAM SW Admin
+ah57ndcwa00104,System,,Siebel
+ah57ndcwa00104,Purpose,,Siebel Web/App
+ah57ndcwa00104,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00105,System,,Siebel
+ah57ndcwa00105,Purpose,,Siebel Web/App
+ah57ndcwa00105,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00106,System,,Siebel
+ah57ndcwa00106,Purpose,,Siebel Application
+ah57ndcwa00106,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00107,System,,Siebel
+ah57ndcwa00107,Purpose,,Siebel Application
+ah57ndcwa00107,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00108,System,,Siebel
+ah57ndcwa00108,Purpose,,Siebel Application
+ah57ndcwa00108,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00109,System,,Siebel
+ah57ndcwa00109,Purpose,,Siebel Reports/App
+ah57ndcwa00109,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcwa00164,System,,Appeon
+ah57ndcwa00164,Purpose,,PowerServer App 1
+ah57ndcwa00164,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcwa00165,System,,Appeon
+ah57ndcwa00165,Purpose,,PowerServer App 2
+ah57ndcwa00165,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcwa00166,System,,Appeon
+ah57ndcwa00166,Purpose,,PowerServer App 3
+ah57ndcwa00166,Supportgroup,,APPEON SW ADMIN
+ah57ndcwa00202,System,,Appeon
+ah57ndcwa00202,Purpose,,PowerServer App 1
+ah57ndcwa00202,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcwa00203,System,,Appeon
+ah57ndcwa00203,Purpose,,PowerServer App 2
+ah57ndcwa00203,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcwa20001,System,,AGM
+ah57ndcwa20001,Purpose,,AGM Synchronizer
+ah57ndcwa20001,Supportgroup,,ALM SW ADMIN
+ah57ndcwa20003,System,,ALM
+ah57ndcwa20003,Purpose,,ALM Synchronizer
+ah57ndcwa20003,Supportgroup,,ALM SW ADMIN
+ah57ndcwa20004,System,,ALM
+ah57ndcwa20004,Purpose,,ALM Node
+ah57ndcwa20004,Supportgroup,,ALM SW ADMIN
+ah57ndcwa20005,System,,ALM
+ah57ndcwa20005,Purpose,,Lab Manager
+ah57ndcwa20005,Supportgroup,,ALM SW ADMIN
+ah57ndcwa20006,System,,ALM
+ah57ndcwa20006,Purpose,,Host 1
+ah57ndcwa20006,Supportgroup,,ALM SW ADMIN
+ah57ndcwa20007,System,,ALM
+ah57ndcwa20007,Purpose,,Host 2
+ah57ndcwa20007,Supportgroup,,ALM SW ADMIN
+ah57ndcww00030,System,,Datastage
+ah57ndcww00030,Purpose,,Web/App Server
+ah57ndcww00030,Supportgroup,,DATASTAGE SW ADMIN
+ah57ndcww00034,System,,Siebel
+ah57ndcww00034,Purpose,,Siebel 2016 Web Server
+ah57ndcww00034,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcww00035,System,,Siebel
+ah57ndcww00035,Purpose,,Siebel 2016 Web Server
+ah57ndcww00035,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcww00036,System,,Siebel
+ah57ndcww00036,Purpose,,Siebel 2016 Web Server
+ah57ndcww00036,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57ndcww00040,System,,Appeon
+ah57ndcww00040,Purpose,,Interchange Web Server
+ah57ndcww00040,Supportgroup,,APPEON SW ADMIN
+ah57ndcww00063,System,,Datastage
+ah57ndcww00063,Purpose,,App/Web Server
+ah57ndcww00063,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57ndcww00069,System,,Appeon
+ah57ndcww00069,Purpose,,PowerServer Web
+ah57ndcww00069,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww00119,System,,Appeon
+ah57ndcww00119,Purpose,,PowerServer Web
+ah57ndcww00119,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww00120,System,,Appeon
+ah57ndcww00120,Purpose,,PowerServer Web
+ah57ndcww00120,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01080,System,,EPLS
+ah57ndcww01080,Purpose,,EPLS Test Server
+ah57ndcww01080,Supportgroup,,EPLS SW ADMIN
+ah57ndcww01084,System,,SURS - Surveillance and Utilization Revi
+ah57ndcww01084,Purpose,,SURS Web / App
+ah57ndcww01084,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01086,System,,TPM - Trading Partner Management
+ah57ndcww01086,Purpose,,EDI Trading Partner Web Server
+ah57ndcww01086,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01088,System,,HIE - Health Information Exchange
+ah57ndcww01088,Purpose,,HIE Web Server
+ah57ndcww01088,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01090,System,,TMSIS - Transformed Medicaid Statistical
+ah57ndcww01090,Purpose,,TMSIS Web
+ah57ndcww01090,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AH57NDCWW01152,System,,TCOS
+AH57NDCWW01152,Purpose,,Web Server
+AH57NDCWW01152,Supportgroup,,TCOS SW ADMIN
+AH57NDCWW01153,System,,TCOS
+AH57NDCWW01153,Purpose,,Web Server
+AH57NDCWW01153,Supportgroup,,TCOS SW ADMIN
+ah57ndcww01154,System,,TCOS
+ah57ndcww01154,Purpose,,Web Server
+ah57ndcww01154,Supportgroup,,TCOS SW ADMIN
+ah57ndcww01155,System,,Visual Application
+ah57ndcww01155,Purpose,,EDI Trading Partner Web Server
+ah57ndcww01155,Supportgroup,,VISUAL APP SW ADMIN
+ah57ndcww01156,System,,Visual Application
+ah57ndcww01156,Purpose,,SURS Web Server
+ah57ndcww01156,Supportgroup,,VISUAL APP SW ADMIN
+ah57ndcww01157,System,,Visual Application
+ah57ndcww01157,Purpose,,HIE Web Server
+ah57ndcww01157,Supportgroup,,VISUAL APP SW ADMIN
+ah57ndcww01158,System,,Visual Application
+ah57ndcww01158,Purpose,,TMSIS_CMS Web Server
+ah57ndcww01158,Supportgroup,,VISUAL APP SW ADMIN
+AH57NDCWW01165,System,,Online Systems
+AH57NDCWW01165,Purpose,,OS Web / App
+AH57NDCWW01165,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01166,System,,Online Systems
+ah57ndcww01166,Purpose,,OS Web / App
+ah57ndcww01166,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcww01167,System,,Online Systems
+ah57ndcww01167,Purpose,,OS Web / App
+ah57ndcww01167,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57ndcwx00001,System,,Decision Analytics
+ah57ndcwx00001,Purpose,,DR for Prod Cluster 1
+ah57ndcwx00001,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57ndcwx00002,System,,Decision Analytics
+ah57ndcwx00002,Purpose,,DR for Prod Cluster 2
+ah57ndcwx00002,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcla00002,System,,ATP
+ah57sdcla00002,Purpose,,IIB App Server  - OS patching can restart without app admin assistance.
+ah57sdcla00002,Supportgroup,,ATP SW ADMIN
+ah57sdcla00003,System,,ATP
+ah57sdcla00003,Purpose,,IIB App Server  - OS patching can restart without app admin assistance.
+ah57sdcla00003,Supportgroup,,ATP SW ADMIN
+ah57sdcla00061,System,,Code Management
+ah57sdcla00061,Purpose,,Code Management Build Server - OS patching can restart without app admin assistance.
+ah57sdcla00061,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00062,System,,Code Management
+ah57sdcla00062,Purpose,,Code Management Repository Server - OS patching can restart without app admin assistance.
+ah57sdcla00062,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00065,System,,ATP
+ah57sdcla00065,Purpose,,Oracle Audit Vault
+ah57sdcla00065,Supportgroup,,OAV SW ADMIN
+ah57sdcla00066,System,,Autosys
+ah57sdcla00066,Purpose,,Autosys App
+ah57sdcla00066,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00067,System,,Autosys
+ah57sdcla00067,Purpose,,Autosys App
+ah57sdcla00067,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00068,System,,Autosys
+ah57sdcla00068,Purpose,,Autosys App
+ah57sdcla00068,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00069,System,,Autosys
+ah57sdcla00069,Purpose,,Autosys App
+ah57sdcla00069,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00070,System,,Autosys
+ah57sdcla00070,Purpose,,Autosys App
+ah57sdcla00070,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00071,System,,Autosys
+ah57sdcla00071,Purpose,,Autosys App
+ah57sdcla00071,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00072,System,,IBM License Metric Tool (IBM LMT)
+ah57sdcla00072,Purpose,,IBM Licensing Server
+ah57sdcla00072,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00080,System,,TMSIS Common Solutions
+ah57sdcla00080,Purpose,,App Server
+ah57sdcla00080,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00081,System,,TMSIS Common Solutions
+ah57sdcla00081,Purpose,,App Server
+ah57sdcla00081,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00082,System,,TMSIS Common Solutions
+ah57sdcla00082,Purpose,,App Server
+ah57sdcla00082,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00083,System,,TMSIS Common Solutions
+ah57sdcla00083,Purpose,,App Server
+ah57sdcla00083,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00095,System,,FileNet Enterprise
+ah57sdcla00095,Purpose,,Filenet CPE Web 1 - OS patching can restart without app admin assistance.
+ah57sdcla00095,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcla00096,System,,FileNet
+ah57sdcla00096,Purpose,,Filenet CPE Web 2 - OS patching can restart without app admin assistance.
+ah57sdcla00096,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcla00102,System,,TMSIS Common Solutions
+ah57sdcla00102,Purpose,,App Server
+ah57sdcla00102,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00112,System,,Code Management
+ah57sdcla00112,Purpose,,RH Build Box
+ah57sdcla00112,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00113,System,,Code Management
+ah57sdcla00113,Purpose,,Scanning
+ah57sdcla00113,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00114,System,,Code Management
+ah57sdcla00114,Purpose,,RH Build Box
+ah57sdcla00114,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00115,System,,Code Management
+ah57sdcla00115,Purpose,,Scanning
+ah57sdcla00115,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcla00127,System,,SOA DEV (RHEL8)
+ah57sdcla00127,Purpose,,IBM ACE
+ah57sdcla00127,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00128,System,,SOA DEV (RHEL8)
+ah57sdcla00128,Purpose,,IBM WAS
+ah57sdcla00128,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00129,System,,SOA DEV (RHEL8)
+ah57sdcla00129,Purpose,,IBM BAW
+ah57sdcla00129,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00130,System,,SOA DEV (RHEL8)
+ah57sdcla00130,Purpose,,Progress Corticon
+ah57sdcla00130,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00131,System,,SOA DEV (RHEL8)
+ah57sdcla00131,Purpose,,IBMWSRR
+ah57sdcla00131,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00132,System,,SOA Sandbox (RHEL8)
+ah57sdcla00132,Purpose,,SOA Sandbox
+ah57sdcla00132,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00133,System,,SOA TEST (RHEL 8)
+ah57sdcla00133,Purpose,,IBM ACE
+ah57sdcla00133,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00134,System,,SOA TEST (RHEL 8)
+ah57sdcla00134,Purpose,,IBM WAS
+ah57sdcla00134,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00135,System,,SOA TEST (RHEL 8)
+ah57sdcla00135,Purpose,,IBM BAW
+ah57sdcla00135,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00136,System,,SOA TEST (RHEL 8)
+ah57sdcla00136,Purpose,,Progress Corticon
+ah57sdcla00136,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00137,System,,SOA TEST (RHEL 8)
+ah57sdcla00137,Purpose,,IBMWSRR
+ah57sdcla00137,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00138,System,,SOA UAT (RHEL8)
+ah57sdcla00138,Purpose,,IBM ACE
+ah57sdcla00138,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00139,System,,SOA UAT (RHEL8)
+ah57sdcla00139,Purpose,,IBM WAS
+ah57sdcla00139,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00140,System,,SOA UAT (RHEL8)
+ah57sdcla00140,Purpose,,IBM BAW
+ah57sdcla00140,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00141,System,,SOA UAT (RHEL8)
+ah57sdcla00141,Purpose,,Progress Corticon
+ah57sdcla00141,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00142,System,,SOA UAT (RHEL8)
+ah57sdcla00142,Purpose,,IBMWSRR
+ah57sdcla00142,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00143,System,,Managed File Transfer
+ah57sdcla00143,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla00143,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla00144,System,,Managed File Transfer
+ah57sdcla00144,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla00144,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla00145,System,,Managed File Transfer
+ah57sdcla00145,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla00145,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla00146,System,,Managed File Transfer
+ah57sdcla00146,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla00146,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla00147,System,,Autosys
+ah57sdcla00147,Purpose,,Autosys App
+ah57sdcla00147,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00148,System,,Autosys
+ah57sdcla00148,Purpose,,Autosys App
+ah57sdcla00148,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00149,System,,Autosys
+ah57sdcla00149,Purpose,,Autosys App
+ah57sdcla00149,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00150,System,,Autosys
+ah57sdcla00150,Purpose,,Autosys App
+ah57sdcla00150,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00151,System,,Autosys
+ah57sdcla00151,Purpose,,Autosys App
+ah57sdcla00151,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00152,System,,Autosys
+ah57sdcla00152,Purpose,,Autosys App
+ah57sdcla00152,Supportgroup,,MMIS Support INF UNIX
+ah57sdcla00153,System,,SOA Stage (RHEL8)
+ah57sdcla00153,Purpose,,IBM ACE
+ah57sdcla00153,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00154,System,,SOA Stage (RHEL8)
+ah57sdcla00154,Purpose,,IBM ACE
+ah57sdcla00154,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00155,System,,SOA Stage (RHEL8)
+ah57sdcla00155,Purpose,,IBM WAS
+ah57sdcla00155,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00156,System,,SOA Stage (RHEL8)
+ah57sdcla00156,Purpose,,IBM WAS
+ah57sdcla00156,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00157,System,,SOA Stage (RHEL8)
+ah57sdcla00157,Purpose,,IBM BAW
+ah57sdcla00157,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00158,System,,SOA Stage (RHEL8)
+ah57sdcla00158,Purpose,,IBM BAW
+ah57sdcla00158,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00159,System,,SOA Stage (RHEL8)
+ah57sdcla00159,Purpose,,Progress Corticon
+ah57sdcla00159,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00160,System,,SOA Stage (RHEL8)
+ah57sdcla00160,Purpose,,Progress Corticon
+ah57sdcla00160,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00161,System,,SOA Stage (RHEL8)
+ah57sdcla00161,Purpose,,IBM WSRR
+ah57sdcla00161,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00162,System,,SOA Stage (RHEL8)
+ah57sdcla00162,Purpose,,IBM WSRR
+ah57sdcla00162,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00163,System,,TMSIS Common Solutions
+ah57sdcla00163,Purpose,,App Server
+ah57sdcla00163,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00164,System,,TMSIS Common Solutions
+ah57sdcla00164,Purpose,,App Server
+ah57sdcla00164,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00165,System,,TMSIS Common Solutions
+ah57sdcla00165,Purpose,,App Server
+ah57sdcla00165,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00166,System,,TMSIS Common Solutions
+ah57sdcla00166,Purpose,,App Server
+ah57sdcla00166,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00167,System,,TMSIS Common Solutions
+ah57sdcla00167,Purpose,,App Server
+ah57sdcla00167,Supportgroup,,MMIS Support Data Warehouse TMSIS
+ah57sdcla00168,System,,SOA Production-DR (RHEL8)
+ah57sdcla00168,Purpose,,IBM ACE
+ah57sdcla00168,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00169,System,,SOA Production-DR (RHEL8)
+ah57sdcla00169,Purpose,,IBM ACE
+ah57sdcla00169,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00170,System,,SOA Production-DR (RHEL8)
+ah57sdcla00170,Purpose,,IBM WAS
+ah57sdcla00170,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00171,System,,SOA Production-DR (RHEL8)
+ah57sdcla00171,Purpose,,IBM WAS
+ah57sdcla00171,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00172,System,,SOA Production-DR (RHEL8)
+ah57sdcla00172,Purpose,,IBM BAW
+ah57sdcla00172,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00173,System,,SOA Production-DR (RHEL8)
+ah57sdcla00173,Purpose,,IBM BAW
+ah57sdcla00173,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00174,System,,SOA Production-DR (RHEL8)
+ah57sdcla00174,Purpose,,Progress Corticon
+ah57sdcla00174,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00175,System,,SOA Production-DR (RHEL8)
+ah57sdcla00175,Purpose,,Progress Corticon
+ah57sdcla00175,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00176,System,,SOA Production-DR (RHEL8)
+ah57sdcla00176,Purpose,,IBM WSRR
+ah57sdcla00176,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00177,System,,SOA Production-DR (RHEL8)
+ah57sdcla00177,Purpose,,IBM WSRR
+ah57sdcla00177,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla00178,System,,IBM License Metric Tool (IBM LMT)
+ah57sdcla00178,Purpose,,IBM Licensing Server
+ah57sdcla00178,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01050,System,,SOA Production-DR
+ah57sdcla01050,Purpose,,SOA Application Server (IIB)
+ah57sdcla01050,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01051,System,,SOA Production-DR
+ah57sdcla01051,Purpose,,SOA Application Server (IIB)
+ah57sdcla01051,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01052,System,,SOA Production-DR
+ah57sdcla01052,Purpose,,SOA Application Server (WAS)
+ah57sdcla01052,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01053,System,,SOA Production-DR
+ah57sdcla01053,Purpose,,SOA Application Server (WAS)
+ah57sdcla01053,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01054,System,,SOA Production-DR
+ah57sdcla01054,Purpose,,SOA Application Server (BPM)
+ah57sdcla01054,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01055,System,,SOA Production-DR
+ah57sdcla01055,Purpose,,SOA Application Server (BPM)
+ah57sdcla01055,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01056,System,,SOA Production-DR
+ah57sdcla01056,Purpose,,SOA Application Server (WAS)
+ah57sdcla01056,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01057,System,,SOA Production-DR
+ah57sdcla01057,Purpose,,SOA Application Server (WAS)
+ah57sdcla01057,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01058,System,,SOA Production-DR
+ah57sdcla01058,Purpose,,SOA Application Server (WSRR)
+ah57sdcla01058,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla01059,System,,SOA Production-DR
+ah57sdcla01059,Purpose,,SOA Application Server (WSRR)
+ah57sdcla01059,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcla03023,System,,Managed File Transfer
+ah57sdcla03023,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla03023,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla03024,System,,Managed File Transfer
+ah57sdcla03024,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla03024,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla03025,System,,Managed File Transfer
+ah57sdcla03025,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla03025,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla03026,System,,Managed File Transfer
+ah57sdcla03026,Purpose,,MFT - Hosts the SFG application for managed file transfer
+ah57sdcla03026,Supportgroup,,MMIS Support EDI SFG/Sterling
+ah57sdcla04201,System,,MMIS Dynatrace
+ah57sdcla04201,Purpose,,MMIS Dynatrace Node
+ah57sdcla04201,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04202,System,,MMIS Dynatrace
+ah57sdcla04202,Purpose,,MMIS Dynatrace Node
+ah57sdcla04202,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04203,System,,MMIS Dynatrace
+ah57sdcla04203,Purpose,,MMIS Dynatrace Node
+ah57sdcla04203,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04204,System,,MMIS Dynatrace
+ah57sdcla04204,Purpose,,MMIS DynaTrace Cluster Active gate
+ah57sdcla04204,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04205,System,,MMIS Dynatrace
+ah57sdcla04205,Purpose,,MMIS DynaTrace Cluster Active gate
+ah57sdcla04205,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04206,System,,MMIS Dynatrace
+ah57sdcla04206,Purpose,,MMIS DynaTrace Environment Active Gate
+ah57sdcla04206,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla04207,System,,MMIS Dynatrace
+ah57sdcla04207,Purpose,,MMIS DynaTrace Environment Active Gate
+ah57sdcla04207,Supportgroup,,MMIS DynaTrace SW ADMIN
+ah57sdcla90013,Purpose,,NetBackup
+ah57sdcla90014,Purpose,,NetBackup
+ah57sdcla90015,Purpose,,NetBackup
+ah57sdclb03003,System,,Edifecs
+ah57sdclb03003,Purpose,,Oracle DB
+ah57sdclb03003,Supportgroup,,MMIS Support INF DBA
+ah57sdclb03004,System,,Edifecs
+ah57sdclb03004,Purpose,,Oracle DB
+ah57sdclb03004,Supportgroup,,MMIS Support INF DBA
+ah57sdclc00001,System,,ATP
+ah57sdclc00001,Purpose,,Oracle RAC Node - Uses IPTables
+ah57sdclc00001,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdclc00002,System,,ATP
+ah57sdclc00002,Purpose,,Oracle RAC Node - Uses IPTables
+ah57sdclc00002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdclc00007,System,,Shared RAC
+ah57sdclc00007,Purpose,,Oracle RAC Node
+ah57sdclc00007,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdclc00008,System,,Shared RAC
+ah57sdclc00008,Purpose,,Oracle RAC Node
+ah57sdclc00008,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdclc03003,System,,Oracle RAC
+ah57sdclc03003,Purpose,,Oracle RAC Node 1
+ah57sdclc03003,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03004,System,,Oracle RAC
+ah57sdclc03004,Purpose,,Oracle RAC Node 2
+ah57sdclc03004,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03005,System,,Oracle RAC - Sandbox
+ah57sdclc03005,Purpose,,Oracle RAC Sandbox Node 1
+ah57sdclc03005,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03006,System,,Oracle RAC - Sandbox
+ah57sdclc03006,Purpose,,Oracle RAC Sandbox Node 2
+ah57sdclc03006,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03007,System,,Oracle RAC
+ah57sdclc03007,Purpose,,Oracle RAC Node 1
+ah57sdclc03007,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03008,System,,Oracle RAC
+ah57sdclc03008,Purpose,,Oracle RAC Node 2
+ah57sdclc03008,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03009,System,,Oracle RAC
+ah57sdclc03009,Purpose,,Oracle RAC Node 1
+ah57sdclc03009,Supportgroup,,MMIS Support INF DBA
+ah57sdclc03010,System,,Oracle RAC
+ah57sdclc03010,Purpose,,Oracle RAC Node 2
+ah57sdclc03010,Supportgroup,,MMIS Support INF DBA
+ah57sdclc04003,System,,Oracle RAC
+ah57sdclc04003,Purpose,,Oracle RAC Node 1
+ah57sdclc04003,Supportgroup,,MMIS Support INF DBA
+ah57sdclc04004,System,,Oracle RAC
+ah57sdclc04004,Purpose,,Oracle RAC Node 2
+ah57sdclc04004,Supportgroup,,MMIS Support INF DBA
+ah57sdcli00002,System,,SOA
+ah57sdcli00002,Purpose,,Datapower
+ah57sdcli00002,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57sdcli00003,System,,SOA
+ah57sdcli00003,Purpose,,Datapower
+ah57sdcli00003,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57sdclm00001,System,,Syslog
+ah57sdclm00001,Purpose,,Syslog - OS patching can restart without app admin assistance
+ah57sdclm00001,Supportgroup,,ATP SW ADMIN
+ah57sdclw00060,System,,Code Management
+ah57sdclw00060,Purpose,,Code Management Reposity  Server - OS patching can restart without app admin assistance.
+ah57sdclw00060,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdclw00061,System,,Code Management
+ah57sdclw00061,Purpose,,Code Management Reposity  Server - OS patching can restart without app admin assistance.
+ah57sdclw00061,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdclw00096,System,,SOA Production-DR
+ah57sdclw00096,Purpose,,SOA Web Server
+ah57sdclw00096,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw00097,System,,SOA Production-DR
+ah57sdclw00097,Purpose,,SOA Web Server
+ah57sdclw00097,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw00103,System,,Siebel
+ah57sdclw00103,Purpose,,Web/App/Rpt - can be restarted without app admin assistance
+ah57sdclw00103,Supportgroup,,SIEBEL SW ADMIN
+ah57sdclw00107,System,,Code Management
+ah57sdclw00107,Purpose,,Repository
+ah57sdclw00107,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdclw00108,System,,Code Management
+ah57sdclw00108,Purpose,,Repository
+ah57sdclw00108,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdclw00109,System,,SOA Stage (RHEL8)
+ah57sdclw00109,Purpose,,TMED Web Server
+ah57sdclw00109,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw00110,System,,SOA Stage (RHEL8)
+ah57sdclw00110,Purpose,,TMED Web Server
+ah57sdclw00110,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw00111,System,,SOA Production-DR (RHEL8)
+ah57sdclw00111,Purpose,,TMED Web Server
+ah57sdclw00111,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw00112,System,,SOA Production-DR (RHEL8)
+ah57sdclw00112,Purpose,,TMED Web Server
+ah57sdclw00112,Supportgroup,,MMIS Support SOA - SOA
+ah57sdclw20002,System,,AGM
+ah57sdclw20002,Purpose,,AGM Web Node 1 - OS patching can restart without app admin assistance
+ah57sdclw20002,Supportgroup,,ALM SW ADMIN
+ah57sdclx00002,System,,OEM
+ah57sdclx00002,Purpose,,Oracle Enterprise Manager
+ah57sdclx00002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdclx00004,System,,Oracle Enterprise Manager (OEM)
+ah57sdclx00004,Purpose,,Oracle Enterprise Manager
+ah57sdclx00004,Supportgroup,,MMIS Support INF DBA
+ah57sdclx00005,System,,Oracle Enterprise Manager (OEM)
+ah57sdclx00005,Purpose,,OEM Server
+ah57sdclx00005,Supportgroup,,MMIS Support INF DBA
+ah57sdcpa00003,System,,PAM
+ah57sdcpa00003,Purpose,,PAM Appliance
+ah57sdcpa00003,Supportgroup,,PAM SW Admin
+ah57sdcpa00004,System,,PAM
+ah57sdcpa00004,Purpose,,PAM Appliance
+ah57sdcpa00004,Supportgroup,,PAM SW Admin
+ah57sdcpa00005,System,,PAM
+ah57sdcpa00005,Purpose,,PAM Debian appliance
+ah57sdcpa00005,Supportgroup,,UNIX OS ADMIN
+ah57sdcpa00008,System,,SOA
+ah57sdcpa00008,Purpose,,API Connect 2018.04.1
+ah57sdcpa00008,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57sdcpa00009,System,,SOA
+ah57sdcpa00009,Purpose,,API Connect 2018.04.1
+ah57sdcpa00009,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57sdcpa00010,System,,SOA
+ah57sdcpa00010,Purpose,,API Connect 2018.04.1
+ah57sdcpa00010,Supportgroup,,ENTERPRISE SOA SW ADMIN
+ah57sdcpi00005-c,System,,SOA Production-DR
+ah57sdcpi00005-c,Purpose,,Datapower
+ah57sdcpi00005-c,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcpi00006-c,System,,SOA Production-DR
+ah57sdcpi00006-c,Purpose,,DataPower Physical Gateway S2
+ah57sdcpi00006-c,Supportgroup,,MMIS Support SOA - SOA
+ah57sdcua00001,System,,SAS-BI
+ah57sdcua00001,Purpose,,Application Server
+ah57sdcua00001,Supportgroup,,SAS SW Admin
+ah57sdcua00002,System,,SAS-BI
+ah57sdcua00002,Purpose,,SAS Application Server
+ah57sdcua00002,Supportgroup,,SAS SW Admin
+ah57sdcub00016,System,,Interchange
+ah57sdcub00016,Purpose,,"Oracle database - Filenet/Siebel/Exstream - idbp8p
+sblprod
+tnedrp1
+tnedrp2"
+ah57sdcub00016,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub01018,System,,Interchange
+ah57sdcub01018,Purpose,,Oracle Financial
+ah57sdcub01018,Supportgroup,,UNIX OS ADMIN
+ah57sdcub01020,System,,InterChange
+ah57sdcub01020,Purpose,,Oracle db - MMIS/DW/MAR/Fraud & Abuse - ...
+ah57sdcub01020,Supportgroup,,UNIX OS ADMIN
+ah57sdcub01021,System,,Interchange
+ah57sdcub01021,Purpose,,Oracle database
+ah57sdcub01021,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub01027,System,,TPAES
+ah57sdcub01027,Purpose,,TPAES 2 Development Zone
+ah57sdcub01027,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub02001,System,,ALM
+ah57sdcub02001,Purpose,,Oracle Database Domain on M8000. Requested to be operational by Chad Williams at 9:14AM CST on 9/15/2023
+ah57sdcub02001,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub02001- dup,System,,ALM
+ah57sdcub02001- dup,Purpose,,Oracle Database domain on M8000
+ah57sdcub02001- dup,Supportgroup,,ALM SW ADMIN
+ah57sdcub04001,System,,T7 Database
+ah57sdcub04001,Purpose,,Oracle Database Zone
+ah57sdcub04001,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04002,System,,T7 Database
+ah57sdcub04002,Purpose,,Oracle Database Zone
+ah57sdcub04002,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04003,System,,T7 Database Host
+ah57sdcub04003,Purpose,,Oracle Database Zone
+ah57sdcub04003,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04004,System,,T7 Database
+ah57sdcub04004,Purpose,,Oracle Database Zone
+ah57sdcub04004,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04005,System,,T7 Database
+ah57sdcub04005,Purpose,,Oracle Database Zone
+ah57sdcub04005,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcub04006,System,,T7 Database
+ah57sdcub04006,Purpose,,Oracle Database Zone
+ah57sdcub04006,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04007,System,,T7 Database
+ah57sdcub04007,Purpose,,Oracle Database - MMIS
+ah57sdcub04007,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04008,System,,T7 Database Host
+ah57sdcub04008,Purpose,,"Oracle Database Zone - Siebel/CMOD/FileNet - Production - SBLPRD20, ARS105P, IBMCNVP, IBMFNVP, IDBP55P"
+ah57sdcub04008,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04009,System,,T7 Database Host
+ah57sdcub04009,Purpose,,ForgeRock LDAP integration for interchange
+ah57sdcub04009,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04010,System,,T7 Database
+ah57sdcub04010,Purpose,,Oracle Database Zone
+ah57sdcub04010,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04011,System,,Code Management
+ah57sdcub04011,Purpose,,Code Management Build Server - OS patching can restart without app admin assistance.
+ah57sdcub04011,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcub04012,System,,T7 Database
+ah57sdcub04012,Purpose,,Oracle Database Zone
+ah57sdcub04012,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04013,System,,T7 Database
+ah57sdcub04013,Purpose,,Oracle Database Zone
+ah57sdcub04013,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04014,System,,T7 Database
+ah57sdcub04014,Purpose,,Oracle Database - Controlled Substance - tncsmp1
+ah57sdcub04014,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04015,System,,T7 Database
+ah57sdcub04015,Purpose,,Oracle Database - Controlled Substance Load  - tncsma2
+ah57sdcub04015,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04016,System,,T7 Database Host
+ah57sdcub04016,Purpose,,Oracle Database Zone - CSM - Production - CSMSP
+ah57sdcub04016,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04017,System,,T7 Database Host
+ah57sdcub04017,Purpose,,Oracle Database Zone - CSM - Production - CSMP
+ah57sdcub04017,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04018,System,,T7 Database Host
+ah57sdcub04018,Purpose,,Oracle Database Zone - Siebel - Production - SBLPRD17
+ah57sdcub04018,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04019,System,,T7 Database
+ah57sdcub04019,Purpose,,Oracle Database Zone
+ah57sdcub04019,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04020,System,,T7 Database Host
+ah57sdcub04020,Purpose,,"Oracle Database Zone
+
+Duplicate of Ah57sdcub04020 10.11.36.120"
+ah57sdcub04020,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04021,System,,T7 Database Host
+ah57sdcub04021,Purpose,,Oracle Database Zone
+ah57sdcub04021,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04022,System,,T7 Database Host
+ah57sdcub04022,Purpose,,ForgeRock LDAP
+ah57sdcub04022,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04023,System,,T7 Database
+ah57sdcub04023,Purpose,,Oracle Database - MMIS DW
+ah57sdcub04023,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04024,System,,T-7 Database Host
+ah57sdcub04024,Purpose,,"Oracle Database Zone - ALM/DataStage - Production - TNALMP2, TNDSTGP3"
+ah57sdcub04024,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04025,System,,T7 Database
+ah57sdcub04025,Purpose,,Oracle Database Zone
+ah57sdcub04025,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04026,System,,T7 Database
+ah57sdcub04026,Purpose,,Oracle Database Zone
+ah57sdcub04026,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04027,System,,T7 Database
+ah57sdcub04027,Purpose,,Oracle Database Zone
+ah57sdcub04027,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04028,System,,T7 Database
+ah57sdcub04028,Purpose,,Oracle Database Zone
+ah57sdcub04028,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04029,System,,T7 Database
+ah57sdcub04029,Purpose,,Oracle Database Zone
+ah57sdcub04029,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04030,System,,T7 Database Host
+ah57sdcub04030,Purpose,,Oracle Database Zone
+ah57sdcub04030,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04031,System,,T7 Database
+ah57sdcub04031,Purpose,,Oracle Database Zone
+ah57sdcub04031,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04032,System,,T7 Database
+ah57sdcub04032,Purpose,,Oracle Database Zone
+ah57sdcub04032,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04033,System,,T7 Database
+ah57sdcub04033,Purpose,,Oracle Database Zone
+ah57sdcub04033,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04034,System,,T7 Database
+ah57sdcub04034,Purpose,,Oracle Database Zone
+ah57sdcub04034,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04035,System,,T7 Database
+ah57sdcub04035,Purpose,,Oracle Database Zone
+ah57sdcub04035,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04036,System,,T7 Database
+ah57sdcub04036,Purpose,,Oracle Database Zone
+ah57sdcub04036,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04037,System,,T7 Database
+ah57sdcub04037,Purpose,,Oracle Database Zone
+ah57sdcub04037,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04038,System,,T7 Database
+ah57sdcub04038,Purpose,,Oracle Database Zone
+ah57sdcub04038,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04039,System,,T7 Database
+ah57sdcub04039,Purpose,,Oracle Database Zone
+ah57sdcub04039,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04040,System,,T7 Database
+ah57sdcub04040,Purpose,,Oracle Database Zone
+ah57sdcub04040,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcub04041,System,,SFTP
+ah57sdcub04041,Purpose,,LDOM/Zone
+ah57sdcub04041,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04043,System,,SFTP
+ah57sdcub04043,Purpose,,LDOM/Zone
+ah57sdcub04043,Supportgroup,,MMIS Support INF UNIX
+ah57sdcub04045,System,,SFTP
+ah57sdcub04045,Purpose,,LDOM/Zone
+ah57sdcub04045,Supportgroup,,Legacy SFTP SW ADMIN
+ah57sdcub04046,System,,Code Management
+ah57sdcub04046,Purpose,,Solaris Build Box - invalid host. Retiring 9/22/21
+ah57sdcub04046,Supportgroup,,CODE MANAGEMENT SW ADMIN
+ah57sdcub04048,System,,SFTP
+ah57sdcub04048,Purpose,,LDOM / Zone
+ah57sdcub04048,Supportgroup,,Legacy SFTP SW ADMIN
+ah57sdcub04049,System,,SFTP
+ah57sdcub04049,Purpose,,LDOM/Zone
+ah57sdcub04049,Supportgroup,,Legacy SFTP SW ADMIN
+ah57sdcub04056,System,,T-8 Database Host
+ah57sdcub04056,Purpose,,"Interchange prod databases - MMIS - TNHISP, TNMISP, TNDOCP"
+ah57sdcub04056,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04057,System,,T-8 Database Host
+ah57sdcub04057,Purpose,,"Interchange Data Warehouse - MMIS - TNMARP, TNSURP"
+ah57sdcub04057,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04060,System,,T8 Database Host
+ah57sdcub04060,Purpose,,Oracle Database - SAS - Production - SASP
+ah57sdcub04060,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04061,System,,T8 Database Host
+ah57sdcub04061,Purpose,,"Oracle Database Zone - MMIS - DEHIS*, DEMIS*"
+ah57sdcub04061,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04062,System,,T-7 Database Host
+ah57sdcub04062,Purpose,,"Oracle Database Zone - MMIS - TNHISA, TNMISA"
+ah57sdcub04062,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04063,System,,T7 Database Host
+ah57sdcub04063,Purpose,,"Oracle Database Zone - MMIS - DEHISA, DEMISA"
+ah57sdcub04063,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04064,Supportgroup,,MMIS Support INF DBA
+ah57sdcub04066,Supportgroup,,MMIS Support INF DBA
+ah57sdcuh04001,System,,T7 Database Host
+ah57sdcuh04001,Purpose,,Oracle Database Host
+ah57sdcuh04001,Supportgroup,,MMIS Support INF UNIX
+ah57sdcuh04002,System,,T7 Database Host
+ah57sdcuh04002,Purpose,,Oracle Database Host
+ah57sdcuh04002,Supportgroup,,MMIS Support INF UNIX
+ah57sdcuh04003,System,,SFTP
+ah57sdcuh04003,Purpose,,LDOM/Zone Host
+ah57sdcuh04003,Supportgroup,,MMIS Support INF UNIX
+ah57sdcuh04004,System,,SFTP
+ah57sdcuh04004,Purpose,,LDOM/Zone Host
+ah57sdcuh04004,Supportgroup,,MMIS Support INF UNIX
+ah57sdcuh04005,System,,T-8 Database Host
+ah57sdcuh04005,Purpose,,T8 Oracle Host
+ah57sdcuh04005,Supportgroup,,MMIS Support INF UNIX
+ah57sdcux01013,System,,InterChange
+ah57sdcux01013,Purpose,,"Oracle db - MMIS - tnhisp1
+tnjobp1
+tnjobp2
+tnjobp3
+tnmisp1"
+ah57sdcux01013,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01015,System,,InterChange
+ah57sdcux01015,Purpose,,"Oracle db - MAR/Fraud & Abuse/BO/Doco - rcatprod
+tndocp1
+tnmarp1
+tnsump1
+tnsurp1"
+ah57sdcux01015,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01017,System,,InterChange
+ah57sdcux01017,Purpose,,"Oracle db - MMIS/DW/MAR/Fraud & Abuse - t9hisa1 
+t9mara1
+t9misa1 
+t9sura1"
+ah57sdcux01017,Supportgroup,,Unix Admin
+ah57sdcux01025,System,,InterChange
+ah57sdcux01025,Purpose,,Oracle database
+ah57sdcux01025,Supportgroup,,Unix Admin
+ah57sdcux01027,System,,OEM
+ah57sdcux01027,Purpose,,Oracle Database
+ah57sdcux01027,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01028,Supportgroup,,Unix Admin
+ah57sdcux01029,Purpose,,8:31 AM 4/1/2025 Retired per Chad Williams - Anthony Bronsdon
+ah57sdcux01029,Supportgroup,,Unix Admin
+ah57sdcux01030,System,,InterChange
+ah57sdcux01030,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01031,System,,InterChange
+ah57sdcux01031,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01033,System,,InterChange
+ah57sdcux01033,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01034,System,,InterChange
+ah57sdcux01034,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01035,System,,InterChange
+ah57sdcux01035,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01036,System,,InterChange
+ah57sdcux01036,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01037,System,,Interchange
+ah57sdcux01037,Purpose,,Oracle database
+ah57sdcux01037,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01038,System,,InterChange
+ah57sdcux01038,Purpose,,Oracle database
+ah57sdcux01038,Supportgroup,,ORACLE DB ADMIN DXC
+ah57sdcux01041,System,,Interchange
+ah57sdcux01041,Purpose,,Oracle database
+ah57sdcux01041,Supportgroup,,Unix Admin
+ah57sdcwa00051,System,,Code Management
+ah57sdcwa00051,Purpose,,Code Management - OS patching can restart without app admin assistance.
+ah57sdcwa00051,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcwa00056,System,,Siebel
+ah57sdcwa00056,Purpose,,Siebel 2016 App
+ah57sdcwa00056,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00057,System,,Siebel
+ah57sdcwa00057,Purpose,,Siebel 2016 App
+ah57sdcwa00057,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00058,System,,Siebel
+ah57sdcwa00058,Purpose,,Siebel 2016 App
+ah57sdcwa00058,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00066,System,,CMOD
+ah57sdcwa00066,Purpose,,Webi Server
+ah57sdcwa00066,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00067,System,,CMOD
+ah57sdcwa00067,Purpose,,Webi Server
+ah57sdcwa00067,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00068,System,,CMOD
+ah57sdcwa00068,Purpose,,Library/Object Server
+ah57sdcwa00068,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00069,System,,CMOD
+ah57sdcwa00069,Purpose,,Library/Object Server
+ah57sdcwa00069,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00070,System,,CMOD
+ah57sdcwa00070,Purpose,,Webi Server
+ah57sdcwa00070,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00071,System,,CMOD
+ah57sdcwa00071,Purpose,,Library/Object Server
+ah57sdcwa00071,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00072,System,,CMOD
+ah57sdcwa00072,Purpose,,Webi Server
+ah57sdcwa00072,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00073,System,,CMOD
+ah57sdcwa00073,Purpose,,Webi Server
+ah57sdcwa00073,Supportgroup,,CMOD SW ADMIN
+ah57sdcwa00074,System,,FileNet Enterprise
+ah57sdcwa00074,Purpose,,Filenet CPE Web 1
+ah57sdcwa00074,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00075,System,,FileNet Enterprise
+ah57sdcwa00075,Purpose,,Filenet CPE Web 2
+ah57sdcwa00075,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00076,System,,FileNet Enterprise
+ah57sdcwa00076,Purpose,,Filenet ICN Web 1
+ah57sdcwa00076,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00077,System,,FileNet Enterprise
+ah57sdcwa00077,Purpose,,Filenet ICN Web 2
+ah57sdcwa00077,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00078,System,,FileNet Enterprise
+ah57sdcwa00078,Purpose,,Filenet ICC
+ah57sdcwa00078,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00079,System,,FileNet Enterprise
+ah57sdcwa00079,Purpose,,Filenet IDL
+ah57sdcwa00079,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00080,System,,FileNet Enterprise
+ah57sdcwa00080,Purpose,,Filenet CSS
+ah57sdcwa00080,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00081,System,,FileNet Enterprise
+ah57sdcwa00081,Purpose,,Filenet CPE/ICN Web 1
+ah57sdcwa00081,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00082,System,,FileNet Enterprise
+ah57sdcwa00082,Purpose,,Filenet CPE/ICN Web 2
+ah57sdcwa00082,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00083,System,,FileNet Enterprise
+ah57sdcwa00083,Purpose,,Filenet ICC
+ah57sdcwa00083,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00084,System,,FileNet Enterprise
+ah57sdcwa00084,Purpose,,Filenet IDL
+ah57sdcwa00084,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00085,System,,FileNet Enterprise
+ah57sdcwa00085,Purpose,,Filenet CSS
+ah57sdcwa00085,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00086,System,,FileNet Enterprise
+ah57sdcwa00086,Purpose,,Filenet CPE/ICN Web 1
+ah57sdcwa00086,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00087,System,,FileNet Enterprise
+ah57sdcwa00087,Purpose,,Filenet CPE/ICN Web 2
+ah57sdcwa00087,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00088,System,,FileNet Enterprise
+ah57sdcwa00088,Purpose,,Filenet ICC
+ah57sdcwa00088,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00089,System,,Filenet Enterprise
+ah57sdcwa00089,Purpose,,Filenet IDL
+ah57sdcwa00089,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00090,System,,Filenet Enterprise
+ah57sdcwa00090,Purpose,,Filenet CSS
+ah57sdcwa00090,Supportgroup,,FILENET SW ADMIN DXC
+ah57sdcwa00095,System,,PAM
+ah57sdcwa00095,Purpose,,CA Authentication
+ah57sdcwa00095,Supportgroup,,PAM SW Admin
+ah57sdcwa00096,System,,Code Management
+ah57sdcwa00096,Purpose,,Win Build Box - OS patching can restart without app admin assistance.
+ah57sdcwa00096,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcwa00097,System,,Siebel
+ah57sdcwa00097,Purpose,,Siebel 2016 Prod app
+ah57sdcwa00097,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00100,System,,Code Management
+ah57sdcwa00100,Purpose,,Code Management Build Server - OS patching can restart without app admin assistance.
+ah57sdcwa00100,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcwa00101,System,,Code Management
+ah57sdcwa00101,Purpose,,Code Management Build Server - OS patching can restart without app admin assistance.
+ah57sdcwa00101,Supportgroup,,MMIS Support Backend Apps DevOps
+ah57sdcwa00102,System,,JIL Manager (Job Information Language)
+ah57sdcwa00102,Purpose,,Job Information Language Application Server
+ah57sdcwa00102,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00103,System,,JIL Manager (Job Information Language)
+ah57sdcwa00103,Purpose,,Job Information Language Application Server
+ah57sdcwa00103,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00104,System,,Siebel
+ah57sdcwa00104,Purpose,,Siebel Web/App
+ah57sdcwa00104,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00105,System,,Siebel
+ah57sdcwa00105,Purpose,,Siebel Web/App
+ah57sdcwa00105,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00106,System,,Siebel
+ah57sdcwa00106,Purpose,,Siebel Application
+ah57sdcwa00106,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00107,System,,Siebel
+ah57sdcwa00107,Purpose,,Siebel Application
+ah57sdcwa00107,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00108,System,,Siebel
+ah57sdcwa00108,Purpose,,Siebel Application
+ah57sdcwa00108,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00109,System,,Siebel
+ah57sdcwa00109,Purpose,,Siebel Reports/App
+ah57sdcwa00109,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00110,System,,Siebel
+ah57sdcwa00110,Purpose,,Siebel Web/App
+ah57sdcwa00110,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00111,System,,Siebel
+ah57sdcwa00111,Purpose,,Siebel Web/App
+ah57sdcwa00111,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00112,System,,Siebel
+ah57sdcwa00112,Purpose,,Siebel Application
+ah57sdcwa00112,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00113,System,,Siebel
+ah57sdcwa00113,Purpose,,Siebel Application
+ah57sdcwa00113,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00114,System,,Siebel
+ah57sdcwa00114,Purpose,,Siebel Application
+ah57sdcwa00114,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00115,System,,Siebel
+ah57sdcwa00115,Purpose,,Siebel Reports/App
+ah57sdcwa00115,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00116,System,,Siebel
+ah57sdcwa00116,Purpose,,Siebel Web/App
+ah57sdcwa00116,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00117,System,,Siebel
+ah57sdcwa00117,Purpose,,Siebel Web/App
+ah57sdcwa00117,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00118,System,,Siebel
+ah57sdcwa00118,Purpose,,Siebel Application
+ah57sdcwa00118,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00119,System,,Siebel
+ah57sdcwa00119,Purpose,,Siebel Application
+ah57sdcwa00119,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00120,System,,Siebel
+ah57sdcwa00120,Purpose,,Siebel Application
+ah57sdcwa00120,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00121,System,,Siebel
+ah57sdcwa00121,Purpose,,Siebel Reports/App
+ah57sdcwa00121,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00122,System,,Siebel
+ah57sdcwa00122,Purpose,,Siebel Web/App/Reports
+ah57sdcwa00122,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00123,System,,Siebel
+ah57sdcwa00123,Purpose,,Siebel Web/App/Report
+ah57sdcwa00123,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcwa00124,System,,LoadRunner Enterprise
+ah57sdcwa00124,Purpose,,LoadRunner Enterprise Site Scope
+ah57sdcwa00124,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00125,System,,LoadRunner Enterprise
+ah57sdcwa00125,Purpose,,LoadRunner Enterprise (old)
+ah57sdcwa00125,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00126,System,,ALM – Application Lifecycle Management
+ah57sdcwa00126,Purpose,,ALM Synchronizer
+ah57sdcwa00126,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00127,System,,ALM – Application Lifecycle Management
+ah57sdcwa00127,Purpose,,MFConnect
+ah57sdcwa00127,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00128,System,,LoadRunner Enterprise
+ah57sdcwa00128,Purpose,,LoadRunner Enterprise Diag
+ah57sdcwa00128,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00129,System,,ALM – Application Lifecycle Management
+ah57sdcwa00129,Purpose,,UFT Licensing Server (Autopass)
+ah57sdcwa00129,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00130,System,,LoadRunner Enterprise
+ah57sdcwa00130,Purpose,,LoadRunner Enterprise Host 1
+ah57sdcwa00130,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00131,System,,LoadRunner Enterprise
+ah57sdcwa00131,Purpose,,LoadRunner Enterprise Host 2
+ah57sdcwa00131,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00132,System,,LoadRunner Enterprise
+ah57sdcwa00132,Purpose,,LoadRunner Enterprise Host 3
+ah57sdcwa00132,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00133,System,,LoadRunner Enterprise
+ah57sdcwa00133,Purpose,,LoadRunner Enterprise Host 4
+ah57sdcwa00133,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00134,System,,LoadRunner Enterprise
+ah57sdcwa00134,Purpose,,LoadRunner Enterprise Host 5
+ah57sdcwa00134,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00135,System,,LoadRunner Enterprise
+ah57sdcwa00135,Purpose,,LoadRunner Enterprise Host 6
+ah57sdcwa00135,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00136,System,,LoadRunner Enterprise
+ah57sdcwa00136,Purpose,,LoadRunner Enterprise Host 7
+ah57sdcwa00136,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00137,System,,LoadRunner Enterprise
+ah57sdcwa00137,Purpose,,LoadRunner Enterprise Host 8
+ah57sdcwa00137,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00138,System,,LoadRunner Enterprise
+ah57sdcwa00138,Purpose,,LoadRunner Enterprise Host 9
+ah57sdcwa00138,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00139,System,,LoadRunner Enterprise
+ah57sdcwa00139,Purpose,,LoadRunner Enterprise Host 10
+ah57sdcwa00139,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00140,System,,LoadRunner Enterprise
+ah57sdcwa00140,Purpose,,LoadRunner Enterprise Host 11
+ah57sdcwa00140,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00141,System,,LoadRunner Enterprise
+ah57sdcwa00141,Purpose,,LoadRunner Enterprise Host 12
+ah57sdcwa00141,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00142,System,,LoadRunner Enterprise
+ah57sdcwa00142,Purpose,,LoadRunner Enterprise Host 13
+ah57sdcwa00142,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00143,System,,LoadRunner Enterprise
+ah57sdcwa00143,Purpose,,LoadRunner Enterprise Host 14
+ah57sdcwa00143,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00144,System,,LoadRunner Enterprise
+ah57sdcwa00144,Purpose,,LoadRunner Enterprise Host 15
+ah57sdcwa00144,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00145,System,,LoadRunner Enterprise
+ah57sdcwa00145,Purpose,,LoadRunner Enterprise Site Scope
+ah57sdcwa00145,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00146,System,,LoadRunner Enterprise
+ah57sdcwa00146,Purpose,,LoadRunner Enterprise (old)
+ah57sdcwa00146,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00147,System,,ALM – Application Lifecycle Management
+ah57sdcwa00147,Purpose,,ALM Synchronizer
+ah57sdcwa00147,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00148,System,,ALM – Application Lifecycle Management
+ah57sdcwa00148,Purpose,,MFConnect
+ah57sdcwa00148,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00149,System,,LoadRunner Enterprise
+ah57sdcwa00149,Purpose,,LoadRunner Enterprise Diag
+ah57sdcwa00149,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00150,System,,TPrime
+ah57sdcwa00150,Purpose,,Search/Application
+ah57sdcwa00150,Supportgroup,,TPRIME SW ADMIN
+ah57sdcwa00152,System,,ALM – Application Lifecycle Management
+ah57sdcwa00152,Purpose,,UFT Licensing Server (Autopass)
+ah57sdcwa00152,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00154,System,,CMOD – Content Management On Demand
+ah57sdcwa00154,Purpose,,IBM Content Navigator
+ah57sdcwa00154,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00155,System,,CMOD – Content Management On Demand
+ah57sdcwa00155,Purpose,,IBM Content Navigator
+ah57sdcwa00155,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00156,System,,CMOD – Content Management On Demand
+ah57sdcwa00156,Purpose,,Library / Object Server
+ah57sdcwa00156,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00157,System,,CMOD – Content Management On Demand
+ah57sdcwa00157,Purpose,,Library / Object Server
+ah57sdcwa00157,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00158,System,,CMOD – Content Management On Demand
+ah57sdcwa00158,Purpose,,IBM Content Navigator
+ah57sdcwa00158,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00159,System,,CMOD – Content Management On Demand
+ah57sdcwa00159,Purpose,,Library / Object Server
+ah57sdcwa00159,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00160,System,,CMOD – Content Management On Demand
+ah57sdcwa00160,Purpose,,IBM Content Navigator
+ah57sdcwa00160,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00161,System,,CMOD – Content Management On Demand
+ah57sdcwa00161,Purpose,,IBM Content Navigator
+ah57sdcwa00161,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00162,System,,CMOD – Content Management On Demand
+ah57sdcwa00162,Purpose,,Library / Object Server
+ah57sdcwa00162,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00163,System,,CMOD – Content Management On Demand
+ah57sdcwa00163,Purpose,,IBM Content Navigator
+ah57sdcwa00163,Supportgroup,,MMIS Support Backend Apps CMOD
+ah57sdcwa00164,System,,Appeon
+ah57sdcwa00164,Purpose,,PowerServer App 1
+ah57sdcwa00164,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00165,System,,Appeon
+ah57sdcwa00165,Purpose,,PowerServer App 2
+ah57sdcwa00165,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00166,System,,Appeon
+ah57sdcwa00166,Purpose,,PowerServer App 3
+ah57sdcwa00166,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00167,System,,Appeon
+ah57sdcwa00167,Purpose,,PowerServer App 1
+ah57sdcwa00167,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00168,System,,Appeon
+ah57sdcwa00168,Purpose,,PowerServer App 2
+ah57sdcwa00168,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00169,System,,Appeon
+ah57sdcwa00169,Purpose,,PowerServer App 3
+ah57sdcwa00169,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00170,System,,LoadRunner Enterprise
+ah57sdcwa00170,Purpose,,LoadRunner Enterprise Host 1
+ah57sdcwa00170,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00171,System,,LoadRunner Enterprise
+ah57sdcwa00171,Purpose,,LoadRunner Enterprise Host 2
+ah57sdcwa00171,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcwa00172,System,,FileNet
+ah57sdcwa00172,Purpose,,Filenet ICC
+ah57sdcwa00172,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00173,System,,FileNet
+ah57sdcwa00173,Purpose,,Filenet IDL
+ah57sdcwa00173,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00174,System,,FileNet
+ah57sdcwa00174,Purpose,,Filenet CSS
+ah57sdcwa00174,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00175,System,,FileNet
+ah57sdcwa00175,Purpose,,Filenet ICC
+ah57sdcwa00175,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00176,System,,FileNet
+ah57sdcwa00176,Purpose,,Filenet IDL/CSS
+ah57sdcwa00176,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00177,System,,FileNet
+ah57sdcwa00177,Purpose,,Filenet ICC
+ah57sdcwa00177,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00178,System,,FileNet
+ah57sdcwa00178,Purpose,,Filenet IDL/CSS
+ah57sdcwa00178,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcwa00179,System,,Exstream
+ah57sdcwa00179,Purpose,,App Server
+ah57sdcwa00179,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00180,System,,Test Data Manager
+ah57sdcwa00180,Purpose,,Data Masking 1
+ah57sdcwa00180,Supportgroup,,TDM SW ADMIN
+ah57sdcwa00181,System,,Test Data Manager
+ah57sdcwa00181,Purpose,,Data Masking 2
+ah57sdcwa00181,Supportgroup,,TDM SW ADMIN
+ah57sdcwa00182,System,,Exstream
+ah57sdcwa00182,Purpose,,Command Center
+ah57sdcwa00182,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00183,System,,Exstream
+ah57sdcwa00183,Purpose,,Licensing Server
+ah57sdcwa00183,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00184,System,,Exstream
+ah57sdcwa00184,Purpose,,Command Center
+ah57sdcwa00184,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00185,System,,Exstream
+ah57sdcwa00185,Purpose,,Command Center
+ah57sdcwa00185,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00186,System,,Exstream
+ah57sdcwa00186,Purpose,,Licensing Server
+ah57sdcwa00186,Supportgroup,,MMIS Support MMIS Front End Letters
+ah57sdcwa00187,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00187,Purpose,,Qmanager App
+ah57sdcwa00187,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00188,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00188,Purpose,,BG Worker 1 App
+ah57sdcwa00188,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00189,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00189,Purpose,,BG Worker 2 App
+ah57sdcwa00189,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00190,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00190,Purpose,,"WebKey / Bridges
+1"
+ah57sdcwa00190,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00191,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00191,Purpose,,Output QA Store
+ah57sdcwa00191,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00192,System,,RRI - Resource Recognition Incorporated
+ah57sdcwa00192,Purpose,,Lookup
+ah57sdcwa00192,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwa00197,System,,Decision Analytics
+ah57sdcwa00197,Purpose,,"Qlik Server / Database
+replication to cloud"
+ah57sdcwa00197,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcwa00198,System,,Decision Analytics
+ah57sdcwa00198,Purpose,,"Qlik Server / Database
+replication to cloud"
+ah57sdcwa00198,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcwa00202,System,,Appeon
+ah57sdcwa00202,Purpose,,PowerServer App 1
+ah57sdcwa00202,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00203,System,,Appeon
+ah57sdcwa00203,Purpose,,PowerServer App 2
+ah57sdcwa00203,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00204,System,,Appeon
+ah57sdcwa00204,Purpose,,PowerServer App1
+ah57sdcwa00204,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa00205,System,,Appeon
+ah57sdcwa00205,Purpose,,PowerServer App2
+ah57sdcwa00205,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcwa01137,System,,Exstream
+ah57sdcwa01137,Purpose,,Print Server
+ah57sdcwa01137,Supportgroup,,EXSTREAM SW ADMIN
+ah57sdcwa20008,System,,Performance Center
+ah57sdcwa20008,Purpose,,ALM PC Host
+ah57sdcwa20008,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20009,System,,Performance Center
+ah57sdcwa20009,Purpose,,ALM PC Host
+ah57sdcwa20009,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20010,System,,Performance Center
+ah57sdcwa20010,Purpose,,ALM PC Host
+ah57sdcwa20010,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20011,System,,Performance Center
+ah57sdcwa20011,Purpose,,ALM PC Host
+ah57sdcwa20011,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20012,System,,Performance Center
+ah57sdcwa20012,Purpose,,ALM PC Host
+ah57sdcwa20012,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20013,System,,Performance Center
+ah57sdcwa20013,Purpose,,ALM PC Host
+ah57sdcwa20013,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20014,System,,Performance Center
+ah57sdcwa20014,Purpose,,ALM PC Host
+ah57sdcwa20014,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20015,System,,Performance Center
+ah57sdcwa20015,Purpose,,ALM PC Host
+ah57sdcwa20015,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20016,System,,Performance Center
+ah57sdcwa20016,Purpose,,ALM PC Host
+ah57sdcwa20016,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20017,System,,Performance Center
+ah57sdcwa20017,Purpose,,ALM PC Host
+ah57sdcwa20017,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20018,System,,Performance Center
+ah57sdcwa20018,Purpose,,ALM PC Host
+ah57sdcwa20018,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20019,System,,Performance Center
+ah57sdcwa20019,Purpose,,ALM PC Host
+ah57sdcwa20019,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20020,System,,Performance Center
+ah57sdcwa20020,Purpose,,ALM PC Host
+ah57sdcwa20020,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20021,System,,Performance Center
+ah57sdcwa20021,Purpose,,ALM PC Host
+ah57sdcwa20021,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20022,System,,Performance Center
+ah57sdcwa20022,Purpose,,ALM PC Host
+ah57sdcwa20022,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20023,System,,ALM
+ah57sdcwa20023,Purpose,,SiteScope
+ah57sdcwa20023,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20024,System,,ALM
+ah57sdcwa20024,Purpose,,ALM Sync
+ah57sdcwa20024,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20025,System,,AGM
+ah57sdcwa20025,Purpose,,AGM Sync
+ah57sdcwa20025,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20026,System,,ALM
+ah57sdcwa20026,Purpose,,ALM PC Diag
+ah57sdcwa20026,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20027,System,,ALM
+ah57sdcwa20027,Purpose,,ALM UFT Licensing Server
+ah57sdcwa20027,Supportgroup,,ALM SW ADMIN
+ah57sdcwa20028,System,,Jira for MMIS
+ah57sdcwa20028,Purpose,,Jira Web Server
+ah57sdcwa20028,Supportgroup,,AGM SW ADMIN
+ah57sdcwb00002,System,,TPrime SharePoint SQL
+ah57sdcwb00002,Purpose,,SharePoint Database Server
+ah57sdcwb00002,Supportgroup,,MMIS Support Backend Apps SharePoint
+ah57sdcwb00013,System,,Sharepoint Qlik
+ah57sdcwb00013,Purpose,,Qlik Prod  and Sharepoint Migration tool
+ah57sdcwb00013,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcwb00019,System,,TEAMS
+ah57sdcwb00019,Purpose,,MS SQL DB Server
+ah57sdcwb00019,Supportgroup,,TEAMS SW ADMIN
+ah57sdcwb00020,System,,TEAMS
+ah57sdcwb00020,Purpose,,MS SQL DB Server
+ah57sdcwb00020,Supportgroup,,TEAMS SW ADMIN
+ah57sdcwb00021,System,,TPrime
+ah57sdcwb00021,Purpose,,SQL DB Server
+ah57sdcwb00021,Supportgroup,,TPRIME SW ADMIN
+ah57sdcwb00027,System,,TPrime
+ah57sdcwb00027,Purpose,,T-Prime SharePoint SQL DB Server
+ah57sdcwb00027,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcwb00040,System,,TPrime
+ah57sdcwb00040,Purpose,,MS SQL DB Server
+ah57sdcwb00040,Supportgroup,,TPRIME SW ADMIN
+ah57sdcwb00041,System,,TPrime
+ah57sdcwb00041,Purpose,,MS SQL DB Server
+ah57sdcwb00041,Supportgroup,,TPRIME SW ADMIN
+ah57sdcwb00042,System,,Decision Analytics
+ah57sdcwb00042,Purpose,,"UAT / STAGING SQL
+Enterprise & SSIS"
+ah57sdcwb00042,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwb00043,System,,Decision Analytics
+ah57sdcwb00043,Purpose,,"DEV SQL Enterprise &
+SSIS"
+ah57sdcwb00043,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwc00001,System,,Decision Analytics
+ah57sdcwc00001,Purpose,,"Prod Cluster 1
+Power BI, SSDS & SSAS"
+ah57sdcwc00001,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwc00002,System,,Decision Analytics
+ah57sdcwc00002,Purpose,,"Prod Power BI, SSDS & SSAS"
+ah57sdcwc00002,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwc00003,System,,Decision Analytics
+ah57sdcwc00003,Purpose,,"Prod Cluster 2
+SQL Ent & SSIS"
+ah57sdcwc00003,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwc00004,System,,Decision Analytics
+ah57sdcwc00004,Purpose,,"Prod Cluster 2
+SQL Ent & SSIS"
+ah57sdcwc00004,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwf00001,System,,FileShares
+ah57sdcwf00001,Purpose,,Windows File Server
+ah57sdcwf00001,Supportgroup,,MMIS Support INF Windows
+ah57sdcwt00001,System,,Decision Analytics
+ah57sdcwt00001,Purpose,,Terminal Services / Prod Support / UAT Testing
+ah57sdcwt00001,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcwt00002,System,,Decision Analytics
+ah57sdcwt00002,Purpose,,Terminal Services / DEV
+ah57sdcwt00002,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcww00029,System,,TDM
+ah57sdcww00029,Purpose,,CA Test Data Management
+ah57sdcww00029,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00030,System,,Datastage
+ah57sdcww00030,Purpose,,Web/App Server
+ah57sdcww00030,Supportgroup,,DATASTAGE SW ADMIN
+ah57sdcww00035,System,,Siebel
+ah57sdcww00035,Purpose,,Siebel 2016 Web
+ah57sdcww00035,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcww00036,System,,Siebel
+ah57sdcww00036,Purpose,,Siebel 2016 Web
+ah57sdcww00036,Supportgroup,,MMIS Support Backend Apps Siebel
+ah57sdcww00037,System,,SharePoint Qlik
+ah57sdcww00037,Purpose,,Qlik Dev & SQL Server and Sharepoint Migration tool
+ah57sdcww00037,Supportgroup,,MMIS Support Data Warehouse Azure
+ah57sdcww00038,System,,SharePoint
+ah57sdcww00038,Purpose,,SharePoint Web
+ah57sdcww00038,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcww00040,System,,Appeon
+ah57sdcww00040,Purpose,,Interchange Web
+ah57sdcww00040,Supportgroup,,APPEON SW ADMIN
+ah57sdcww00042,System,,Appeon
+ah57sdcww00042,Purpose,,Interchange Web
+ah57sdcww00042,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00044,System,,Datastage
+ah57sdcww00044,Purpose,,Web/App Server
+ah57sdcww00044,Supportgroup,,DATASTAGE SW ADMIN
+ah57sdcww00045,System,,Datastage
+ah57sdcww00045,Purpose,,Web/App Server
+ah57sdcww00045,Supportgroup,,DATASTAGE SW ADMIN
+ah57sdcww00046,System,,Datastage
+ah57sdcww00046,Purpose,,Web/App Server
+ah57sdcww00046,Supportgroup,,DATASTAGE SW ADMIN
+ah57sdcww00053,System,,Doctor Lookup
+ah57sdcww00053,Purpose,,Web Server
+ah57sdcww00053,Supportgroup,,DRLOOKUP SW ADMIN
+ah57sdcww00054,System,,Doctor Lookup
+ah57sdcww00054,Purpose,,Web Server
+ah57sdcww00054,Supportgroup,,DRLOOKUP SW ADMIN
+ah57sdcww00055,System,,Doctor Lookup
+ah57sdcww00055,Purpose,,Web Server
+ah57sdcww00055,Supportgroup,,DRLOOKUP SW ADMIN
+ah57sdcww00059,System,,ALM – Application Lifecycle Management
+ah57sdcww00059,Purpose,,ALM Web Node 1
+ah57sdcww00059,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00060,System,,ALM – Application Lifecycle Management
+ah57sdcww00060,Purpose,,ALM Web Node 2
+ah57sdcww00060,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00061,System,,ALM – Application Lifecycle Management
+ah57sdcww00061,Purpose,,ALM Web Node 1
+ah57sdcww00061,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00062,System,,ALM – Application Lifecycle Management
+ah57sdcww00062,Purpose,,ALM Web Node 2
+ah57sdcww00062,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00063,System,,Datastage
+ah57sdcww00063,Purpose,,App/Web Server
+ah57sdcww00063,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00064,System,,Datastage
+ah57sdcww00064,Purpose,,App/Web Server
+ah57sdcww00064,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00065,System,,Datastage
+ah57sdcww00065,Purpose,,App/Web Server
+ah57sdcww00065,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00066,System,,Datastage
+ah57sdcww00066,Purpose,,App/Web Server
+ah57sdcww00066,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00067,System,,Datastage
+ah57sdcww00067,Purpose,,App/Web Server
+ah57sdcww00067,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00068,System,,Datastage
+ah57sdcww00068,Purpose,,App/Web Server
+ah57sdcww00068,Supportgroup,,MMIS Support Data Warehouse DataStage
+ah57sdcww00069,System,,Appeon
+ah57sdcww00069,Purpose,,PowerServer Web
+ah57sdcww00069,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00070,System,,Appeon
+ah57sdcww00070,Purpose,,PowerServer Web
+ah57sdcww00070,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00071,System,,LoadRunner Enterprise
+ah57sdcww00071,Purpose,,LoadRunner Enterprise 1
+ah57sdcww00071,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00072,System,,LoadRunner Enterprise
+ah57sdcww00072,Purpose,,LoadRunner Enterprise 2
+ah57sdcww00072,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00073,System,,LoadRunner Enterprise
+ah57sdcww00073,Purpose,,LoadRunner Enterprise 1
+ah57sdcww00073,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00074,System,,LoadRunner Enterprise
+ah57sdcww00074,Purpose,,LoadRunner Enterprise 2
+ah57sdcww00074,Supportgroup,,MMIS Support Backend Apps ALM
+ah57sdcww00075,System,,FileNet
+ah57sdcww00075,Purpose,,Filenet CPE Web 1
+ah57sdcww00075,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00076,System,,FileNet
+ah57sdcww00076,Purpose,,Filenet CPE Web 2
+ah57sdcww00076,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00077,System,,FileNet
+ah57sdcww00077,Purpose,,Filenet ICN Web 1
+ah57sdcww00077,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00078,System,,FileNet
+ah57sdcww00078,Purpose,,Filenet ICN Web 2
+ah57sdcww00078,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00079,System,,FileNet
+ah57sdcww00079,Purpose,,Filenet CPE / ICN Web 1
+ah57sdcww00079,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00080,System,,FileNet
+ah57sdcww00080,Purpose,,Filenet CPE / ICN Web 2
+ah57sdcww00080,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00081,System,,FileNet
+ah57sdcww00081,Purpose,,Filenet CPE / ICN Web 1
+ah57sdcww00081,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00082,System,,FileNet
+ah57sdcww00082,Purpose,,Filenet CPE / ICN Web 2
+ah57sdcww00082,Supportgroup,,MMIS Support Backend Apps Filenet
+ah57sdcww00086,System,,LEGACY EPLS
+ah57sdcww00086,Purpose,,EPLS Prod server
+ah57sdcww00086,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00087,System,,LEGACY EPLS
+ah57sdcww00087,Purpose,,EPLS Test server
+ah57sdcww00087,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00088,System,,Project WorkBook (PWB)
+ah57sdcww00088,Purpose,,OS Web / App
+ah57sdcww00088,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00100,System,,TPrime
+ah57sdcww00100,Purpose,,Web Front End
+ah57sdcww00100,Supportgroup,,TPRIME SW ADMIN
+ah57sdcww00101,System,,TPrime
+ah57sdcww00101,Purpose,,Web Front End
+ah57sdcww00101,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcww00102,System,,TPrime
+ah57sdcww00102,Purpose,,Web Front End
+ah57sdcww00102,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcww00103,System,,RRI - Resource Recognition Incorporated
+ah57sdcww00103,Purpose,,"Navigator Web /
+App"
+ah57sdcww00103,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcww00104,System,,RRI - Resource Recognition Incorporated
+ah57sdcww00104,Purpose,,WebKey 2 / App
+ah57sdcww00104,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcww00112,System,,Legal Hold
+ah57sdcww00112,Purpose,,"Legal Hold Web /
+App"
+ah57sdcww00113,System,,Legal Hold
+ah57sdcww00113,Purpose,,"Legal Hold Web /
+App"
+ah57sdcww00113,Supportgroup,,AWS SW Admin
+ah57sdcww00114,System,,Appeon
+ah57sdcww00114,Purpose,,Appeon Build Server
+ah57sdcww00114,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00115,System,,Decision Analytics
+ah57sdcww00115,Purpose,,"App / WebApp / Win SVC
+/ IIS"
+ah57sdcww00115,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcww00116,System,,Decision Analytics
+ah57sdcww00116,Purpose,,"App / WebApp / Win SVC
+/ IIS"
+ah57sdcww00116,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcww00117,System,,Decision Analytics
+ah57sdcww00117,Purpose,,App / WebApp / Win SVC/ IIS
+ah57sdcww00117,Supportgroup,,MMIS Support Decision Analytics Dashboard
+ah57sdcww00118,System,,SharePoint UAT WEB
+ah57sdcww00118,Purpose,,SharePoint UAT WEB
+ah57sdcww00118,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcww00119,System,,Appeon
+ah57sdcww00119,Purpose,,PowerServer Web
+ah57sdcww00119,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00120,System,,Appeon
+ah57sdcww00120,Purpose,,PowerServer Web
+ah57sdcww00120,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00121,System,,Appeon
+ah57sdcww00121,Purpose,,PowerServer Web
+ah57sdcww00121,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww00122,System,,Appeon
+ah57sdcww00122,Purpose,,PowerServer Web
+ah57sdcww00122,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01081,System,,EPLS
+ah57sdcww01081,Purpose,,EPLS Prod Server
+ah57sdcww01081,Supportgroup,,EPLS SW ADMIN
+ah57sdcww01082,System,,Provider Web Service
+ah57sdcww01082,Purpose,,PWS Web / App
+ah57sdcww01082,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01083,System,,Provider Web Service
+ah57sdcww01083,Purpose,,PWS Web / App
+ah57sdcww01083,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01084,System,,SURS - Surveillance and Utilization Revi
+ah57sdcww01084,Purpose,,SURS Web / App
+ah57sdcww01084,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01085,System,,SURS - Surveillance and Utilization Revi
+ah57sdcww01085,Purpose,,SURS Web / App
+ah57sdcww01085,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01086,System,,TPM - Trading Partner Management
+ah57sdcww01086,Purpose,,EDI Trading Partner Web Server
+ah57sdcww01086,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01087,System,,TPM - Trading Partner Management
+ah57sdcww01087,Purpose,,EDI Trading Partner Web Server
+ah57sdcww01087,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01088,System,,HIE - Health Information Exchange
+ah57sdcww01088,Purpose,,HIE Web Server
+ah57sdcww01088,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01089,System,,HIE - Health Information Exchange
+ah57sdcww01089,Purpose,,HIE Web Server
+ah57sdcww01089,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01090,System,,TMSIS - Transformed Medicaid Statistical
+ah57sdcww01090,Purpose,,TMSIS Web
+ah57sdcww01090,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01091,System,,TMSIS - Transformed Medicaid Statistical
+ah57sdcww01091,Purpose,,TMSIS Web
+ah57sdcww01091,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01150,System,,Exstream
+ah57sdcww01150,Purpose,,License Server
+ah57sdcww01150,Supportgroup,,EXSTREAM SW ADMIN
+ah57sdcww01151,System,,Exstream
+ah57sdcww01151,Purpose,,Web/App Server
+ah57sdcww01151,Supportgroup,,EXSTREAM SW ADMIN
+ah57sdcww01152,System,,TCOS
+ah57sdcww01152,Purpose,,Web Server
+ah57sdcww01152,Supportgroup,,TCOS SW ADMIN
+ah57sdcww01153,System,,TCOS
+ah57sdcww01153,Purpose,,Web Server
+ah57sdcww01153,Supportgroup,,TCOS SW ADMIN
+ah57sdcww01154,System,,TCOS
+ah57sdcww01154,Purpose,,Web Server
+ah57sdcww01154,Supportgroup,,TCOS SW ADMIN
+ah57sdcww01155,System,,Visual Application
+ah57sdcww01155,Purpose,,EDI Trading Partner Web Server
+ah57sdcww01155,Supportgroup,,VISUAL APP SW ADMIN
+ah57sdcww01156,System,,Visual Application
+ah57sdcww01156,Purpose,,SURS Web Server
+ah57sdcww01156,Supportgroup,,VISUAL APP SW ADMIN
+ah57sdcww01157,System,,Visual Application
+ah57sdcww01157,Purpose,,HIE Web Server
+ah57sdcww01157,Supportgroup,,VISUAL APP SW ADMIN
+ah57sdcww01158,System,,Visual Application
+ah57sdcww01158,Purpose,,TMSIS_CMS Web Server
+ah57sdcww01158,Supportgroup,,VISUAL APP SW ADMIN
+ah57sdcww01165,System,,Online Systems
+ah57sdcww01165,Purpose,,OS Web / App
+ah57sdcww01165,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01166,System,,Online Systems
+ah57sdcww01166,Purpose,,OS Web / App
+ah57sdcww01166,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01167,System,,Online Systems
+ah57sdcww01167,Purpose,,OS Web / App
+ah57sdcww01167,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01168,System,,Doctors Lookup
+ah57sdcww01168,Purpose,,Doctor Lookup Web server
+ah57sdcww01168,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01169,System,,Doctors Lookup
+ah57sdcww01169,Purpose,,Doctor Lookup Web server
+ah57sdcww01169,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01170,System,,Doctors Lookup
+ah57sdcww01170,Purpose,,Doctor Lookup Web server
+ah57sdcww01170,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01171,System,,Online Systems
+ah57sdcww01171,Purpose,,OS Web / App
+ah57sdcww01171,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01172,System,,Online Systems
+ah57sdcww01172,Purpose,,OS Web / App
+ah57sdcww01172,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww01173,System,,Online Systems
+ah57sdcww01173,Purpose,,OS Web / App
+ah57sdcww01173,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+ah57sdcww20002,System,,ALM
+ah57sdcww20002,Purpose,,ALM Web Node 1
+ah57sdcww20002,Supportgroup,,ALM SW ADMIN
+ah57sdcww20003,System,,ALM
+ah57sdcww20003,Purpose,,ALM Web Node 2
+ah57sdcww20003,Supportgroup,,ALM SW ADMIN
+ah57sdcww20004,System,,Jira for MMIS
+ah57sdcww20004,Purpose,,Jira Web Server
+ah57sdcww20004,Supportgroup,,AGM SW ADMIN
+ah57sdcwx00001,System,,TPrime SharePoint WFE
+ah57sdcwx00001,Purpose,,SharePoint SSRS/Power Pivot Front End Server
+ah57sdcwx00001,Supportgroup,,MMIS Support Backend Apps SharePoint
+ah57sdcwx00002,System,,TPrime
+ah57sdcwx00002,Purpose,,SharePoint SSRS/Power Pivot
+ah57sdcwx00002,Supportgroup,,MMIS Change Backend Apps Sharepoint
+ah57sdcwx00003,System,,TPrime
+ah57sdcwx00003,Purpose,,T-Prime SharePoint SSRS/Power Pivot Front End Server
+ah57sdcwx00003,Supportgroup,,TPRIME SW ADMIN
+ah57sdcwx00004,System,,RRI - Resource Recognition Incorporated
+ah57sdcwx00004,Purpose,,Dev - All
+ah57sdcwx00004,Supportgroup,,MMIS Support Backend Apps Formworks
+ah57sdcwx00007,System,,Decision Analytics
+ah57sdcwx00007,Purpose,,"UAT / STAGING Power BI,
+SSRS, & SSAS"
+ah57sdcwx00007,Supportgroup,,WINDOWS OS ADMIN STS
+ah57sdcwx00008,System,,Decision Analytics
+ah57sdcwx00008,Purpose,,"DEV Power BI, SSRS, &
+SSAS"
+ah57sdcwx00008,Supportgroup,,WINDOWS OS ADMIN STS
+AZE1LMCDEVREF01,System,,MMIS Core
+AZE1LMCDEVREF01,Supportgroup,,MMIS Support INF UNIX
+AZE1LMCDEVSYS01,System,,MMIS Core
+AZE1LMCDEVSYS01,Supportgroup,,MMIS Support INF UNIX
+AZE1WDLDRHAPP01,System,,Doctors Lookup
+AZE1WDLDRHAPP01,Purpose,,Doctor Lookup Dr app Server
+AZE1WDLDRHAPP01,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AZE1WDLPRDAPP01,System,,Doctors Lookup
+AZE1WDLPRDAPP01,Purpose,,Doctor Lookup Prod app Server
+AZE1WDLPRDAPP01,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AZE1WDLSTGAPP01,System,,Doctors Lookup
+AZE1WDLSTGAPP01,Purpose,,Doctor Lookup Test app Server
+AZE1WDLSTGAPP01,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AZE2LMCDEVSYS02,System,,MMIS Core
+AZE2LMCDEVSYS02,Supportgroup,,MMIS Support INF UNIX
+AZE2WDLDRHAPP02,System,,Doctors Lookup
+AZE2WDLDRHAPP02,Purpose,,Doctor Lookup Dr app Server
+AZE2WDLDRHAPP02,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AZE2WDLPRDAPP02,System,,Doctors Lookup
+AZE2WDLPRDAPP02,Purpose,,Doctor Lookup Prod app Server
+AZE2WDLPRDAPP02,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+AZE2WDLSTGAPP02,System,,Doctors Lookup
+AZE2WDLSTGAPP02,Purpose,,Doctor Lookup Test app Server
+AZE2WDLSTGAPP02,Supportgroup,,MMIS Support Visual Apps Visual Apps (Appeon/TCOS/PWB/.NET)
+dc5719??,System,,Edifecs
+dc5719??,Purpose,,EDIFECS Dev
+dc5719052wa015,System,,Edifecs
+dc5719052wa015,Purpose,,Edifecs - soon to be decommissioned
+dc5719052wa016,System,,Edifecs
+dc5719052wa016,Purpose,,Edifecs - soon to be decommissioned
+dc5719052wa017,System,,Edifecs
+dc5719052wa017,Purpose,,Edifecs - soon to be decommissioned
+dc5719052waa221,System,,ProLaw
+dc5719052waa221,Purpose,,ProLaw
+dc5719052waa221,Supportgroup,,Vendor IT Support
+dc5719052wai102,System,,DXC Infrastructure
+dc5719052wai102,Purpose,,IBM Rational License Server
+dc5719052wai102,Supportgroup,,Vendor IT Support
+dc5719052wb001,System,,Edifecs
+dc5719052wb001,Purpose,,Edifecs - soon to be decommissioned
+dc5719052wb002,System,,Edifecs
+dc5719052wb002,Purpose,,Edifecs - soon to be decommissioned
+dc5719052wb100,System,,MMIS
+dc5719052wb100,Purpose,,"State File Share
+Seibel Archive
+State Security Archive"
+dc5719052wb100,Supportgroup,,Vendor IT Support
+dc5719cfs60,System,,GWT Infrastructure
+dc5719cfs60,Purpose,,File Server
+dc5719cfs60,Supportgroup,,Vendor IT Support
+dc5719dy249,System,,GWT Infrastructure
+dc5719dy249,Purpose,,Dynatrace
+dc5719dy249,Supportgroup,,Vendor IT Support
+dc5719dyt250,System,,DXC Infrastructure
+dc5719dyt250,Purpose,,DynaTrace
+dc5719dyt250,Supportgroup,,Vendor IT Support
+dc5719icdev103,System,,iC DEV
+dc5719icdev103,Purpose,,New home for fat client builds for testing
+dc5719icdev103,Supportgroup,,Vendor IT Support
+dc5719pa188,System,,Pharmacy Archive
+dc5719pa188,Purpose,,File Server
+dc5719pa188,Supportgroup,,Vendor IT Support
+dc5719pxe32,System,,DXC Infrastructure
+dc5719pxe32,Purpose,,POC for PXE Boot Server (Server 2019 Datacenter)
+dc5719pxe32,Supportgroup,,Vendor IT Support
+dc5719rri67,Purpose,,RRI
+dc5719rri68,System,,DXC Infrastructure
+dc5719rri68,Purpose,,Form Works 5 RRI Bridges/WebKey (Server 2019 Datacenter)
+dc5719rri68,Supportgroup,,Vendor IT Support
+dc5719rri69,System,,DXC Infrastructure
+dc5719rri69,Purpose,,Form Works 5 RRI Bridges/WebKey (Server 2019 Datacenter)
+dc5719rri69,Supportgroup,,Vendor IT Support
+dc5719swap99,System,,MMIS
+dc5719swap99,Purpose,,Power BI POC server
+dc5719swap99,Supportgroup,,Vendor IT Support
+dc5719vctr245,System,,DXC Infrastructure
+dc5719vctr245,Purpose,,VCenter Appliance
+dc5719vctr245,Supportgroup,,MMIS Support INF Windows
+dc5719wa107,System,,MMIS
+dc5719wa107,Purpose,,TEDS Share
+dc5719wa107,Supportgroup,,Vendor IT Support
+dc5719wa13,System,,MMIS
+dc5719wa13,Purpose,,File Server
+dc5719wa13,Supportgroup,,MMIS Support INF Windows
+dc5719wa131,System,,DXC Infrastructure
+dc5719wa131,Purpose,,3Par Reports Server
+dc5719wa131,Supportgroup,,Vendor IT Support
+DC5719WA170,System,,RightFax
+DC5719WA170,Purpose,,RightFax
+DC5719WA170,Supportgroup,,Unix Admin
+dc5719wa171,System,,RightFax
+dc5719wa171,Purpose,,RightFax
+dc5719wa171,Supportgroup,,Vendor IT Support
+dc5719wa172,System,,RightFax
+dc5719wa172,Purpose,,RightFax
+dc5719wa172,Supportgroup,,Vendor IT Support
+dc5719wa173,System,,RightFax
+dc5719wa173,Purpose,,RightFax
+dc5719wa173,Supportgroup,,Vendor IT Support
+dc5719wa174,System,,RightFax
+dc5719wa174,Purpose,,RightFax
+dc5719wa174,Supportgroup,,Vendor IT Support
+dc5719wa175,System,,RightFax
+dc5719wa175,Purpose,,RightFax
+dc5719wa175,Supportgroup,,Vendor IT Support
+dc5719wa35,System,,MMIS
+dc5719wa35,Purpose,,"TN ANYTIME DEV SERVER, VA Sandbox"
+DC5719WA62,System,,FIS - Formworks 5
+DC5719WA62,Purpose,,FIS - Formworks 5
+DC5719WA62,Supportgroup,,Unix Admin
+DC5719WA63,System,,FIS - Formworks 5
+DC5719WA63,Purpose,,FIS - Formworks 5
+DC5719WA63,Supportgroup,,Unix Admin
+DC5719WA64,System,,FIS - Formworks 5
+DC5719WA64,Purpose,,FIS - Formworks 5
+DC5719WA64,Supportgroup,,Unix Admin
+DC5719WA65,System,,FIS - Formworks 5
+DC5719WA65,Purpose,,FIS - Formworks 5
+DC5719WA65,Supportgroup,,Unix Admin
+DC5719WA66,System,,FIS - Formworks 5
+DC5719WA66,Purpose,,FIS - Formworks 5
+DC5719WA66,Supportgroup,,Unix Admin
+DC5719WA68,System,,FIS - Formworks 5
+DC5719WA68,Purpose,,FIS - Formworks 5
+DC5719WA68,Supportgroup,,Unix Admin
+DC5719WA69,System,,FIS - Formworks 5
+DC5719WA69,Purpose,,FIS - Formworks 5
+DC5719WA69,Supportgroup,,Unix Admin
+dc5719wa75,System,,DXC Infrastructure
+dc5719wa75,Purpose,,SQL 2016 temporary jump server for SharePoint migration to 2019
+dc5719wa75,Supportgroup,,Vendor IT Support
+dc5719wa76,System,,DXC Infrastructure
+dc5719wa76,Purpose,,SQL 2016 temporary jump server for SharePoint migration to 2019
+dc5719wa76,Supportgroup,,Vendor IT Support
+dc5719waa193,System,,ProLaw
+dc5719waa193,Purpose,,Prolaw SSRS Server
+dc5719waa193,Supportgroup,,MMIS Support INF Windows
+dc5719waa66,System,,SharePoint
+dc5719waa66,Purpose,,Sharepoint
+dc5719waa66,Supportgroup,,Vendor IT Support
+dc5719waa73,Supportgroup,,Vendor IT Support
+dc5719waa74,Supportgroup,,Vendor IT Support
+dc5719waf79,System,,DXC Infrastructure
+dc5719waf79,Purpose,,NET 2019 VM Template
+dc5719waf79,Supportgroup,,Vendor IT Support
+dc5719wap10,System,,DXC Infrastructure
+dc5719wap10,Purpose,,Domain Controller
+dc5719wap10,Supportgroup,,Vendor IT Support
+dc5719wap100,System,,MMIS
+dc5719wap100,Purpose,,IWI
+dc5719wap100,Supportgroup,,Vendor IT Support
+dc5719wap101,System,,MMIS
+dc5719wap101,Purpose,,Teammate IIS
+dc5719wap101,Supportgroup,,Vendor IT Support
+dc5719wap102,System,,MMIS
+dc5719wap102,Purpose,,File Server
+dc5719wap102,Supportgroup,,Vendor IT Support
+dc5719wap105,System,,MMIS
+dc5719wap105,Purpose,,Teamate
+dc5719wap105,Supportgroup,,Vendor IT Support
+dc5719wap106,System,,MMIS
+dc5719wap106,Purpose,,HCI File Server
+dc5719wap106,Supportgroup,,Vendor IT Support
+dc5719wap108,System,,DXC Infrastructure
+dc5719wap108,Purpose,,Prod SSRS for TEAMS
+dc5719wap108,Supportgroup,,MMIS Support INF Windows
+dc5719wap109,System,,ProLaw
+dc5719wap109,Purpose,,"ProLaw, File repository for BIDS, TSFSqlServer, Kepro application"
+dc5719wap109,Supportgroup,,MMIS Support INF Windows
+dc5719wap11,System,,Domain Controller - TENNCARE - Primary
+dc5719wap11,Purpose,,Domain Controller - TENNCARE - Primary
+dc5719wap11,Supportgroup,,Vendor IT Support
+dc5719wap115,System,,DXC Infrastructure
+dc5719wap115,Purpose,,Requested by Tina Rowe DXC DBA for remote Oracle Installs.
+dc5719wap115,Supportgroup,,Vendor IT Support
+dc5719wap116,System,,DXC Infrastructure
+dc5719wap116,Purpose,,Was DC5719WAP99
+dc5719wap116,Supportgroup,,Vendor IT Support
+dc5719wap12,System,,Domain Controller - TENNCARE - Tertiary
+dc5719wap12,Purpose,,Domain Controller - TENNCARE - Tertiary
+dc5719wap12,Supportgroup,,Vendor IT Support
+dc5719wap125,System,,DXC Infrastructure
+dc5719wap125,Purpose,,PW Reset .Net solution
+dc5719wap125,Supportgroup,,Vendor IT Support
+dc5719wap127,System,,MMIS
+dc5719wap127,Purpose,,"One of the State File Share Servers
+TeamMate?"
+dc5719wap127,Supportgroup,,Vendor IT Support
+dc5719wap128,System,,MMIS
+dc5719wap128,Purpose,,"One of the State File Share Servers
+OPI Share Server"
+dc5719wap128,Supportgroup,,Vendor IT Support
+dc5719wap129,System,,MMIS
+dc5719wap129,Purpose,,State Eligibility Initiative File Share Server
+dc5719wap129,Supportgroup,,Vendor IT Support
+dc5719wap141,System,,DXC Infrastructure
+dc5719wap141,Purpose,,MPI APP Server Requested by Clay
+dc5719wap143,System,,CMOD
+dc5719wap143,Purpose,,CMOD
+dc5719wap143,Supportgroup,,Vendor IT Support
+dc5719wap144,System,,FileNet
+dc5719wap144,Purpose,,Filenet
+dc5719wap144,Supportgroup,,Vendor IT Support
+dc5719wap145,System,,FileNet
+dc5719wap145,Purpose,,Filenet
+dc5719wap145,Supportgroup,,Vendor IT Support
+dc5719wap146,System,,FileNet
+dc5719wap146,Purpose,,Filenet
+dc5719wap146,Supportgroup,,Vendor IT Support
+dc5719wap147,System,,CMOD
+dc5719wap147,Purpose,,CMOD
+dc5719wap147,Supportgroup,,Vendor IT Support
+dc5719wap148,System,,CMOD
+dc5719wap148,Purpose,,CMOD
+dc5719wap148,Supportgroup,,Vendor IT Support
+dc5719wap15,Supportgroup,,Vendor IT Support
+dc5719wap150,System,,MMIS
+dc5719wap150,Purpose,,Exstream Letters Server
+dc5719wap150,Supportgroup,,Vendor IT Support
+dc5719wap151,System,,MMIS
+dc5719wap151,Purpose,,Exstream Test Server
+dc5719wap151,Supportgroup,,Vendor IT Support
+dc5719wap168h,System,,DXC Infrastructure
+dc5719wap168h,Purpose,,SQL CLUSTER Node 3
+dc5719wap168h,Supportgroup,,MMIS Support INF Windows
+dc5719wap170,System,,MMIS
+dc5719wap170,Purpose,,AbacusLaw Software
+dc5719wap170,Supportgroup,,Vendor IT Support
+dc5719wap19,System,,MMIS
+dc5719wap19,Purpose,,RRI Deployment Server
+dc5719wap190,System,,Sparx
+dc5719wap190,Purpose,,Sparx
+dc5719wap190,Supportgroup,,Vendor IT Support
+DC5719WAP191,System,,ALM
+DC5719WAP191,Purpose,,ALM Test Data Masking
+DC5719WAP191,Supportgroup,,Vendor IT Support
+dc5719wap196,System,,Siebel
+dc5719wap196,Purpose,,Oracle DB Server/Siebel
+DC5719WAP31,System,,DXC Infrastructure
+DC5719WAP31,Purpose,,vSphere web interface
+DC5719WAP31,Supportgroup,,MMIS Support INF Windows
+dc5719wap34,System,,DXC Infrastructure
+dc5719wap34,Purpose,,DEV .Net Solutions (Web Services & Console Apps)
+dc5719wap34,Supportgroup,,Vendor IT Support
+dc5719wap35,System,,DXC Infrastructure
+dc5719wap35,Purpose,,Server 2019 Datacenter VM template. Used for builds and compliance scans
+dc5719wap35,Supportgroup,,Vendor IT Support
+dc5719wap39,System,,DXC Infrastructure
+dc5719wap39,Purpose,,NET Domain Terminal License Server
+dc5719wap39,Supportgroup,,MMIS Support INF Windows
+dc5719wap42,System,,DXC Infrastructure
+dc5719wap42,Purpose,,IIS Server (Password reset tool)
+dc5719wap42,Supportgroup,,Vendor IT Support
+dc5719wap50,System,,DXC Infrastructure
+dc5719wap50,Purpose,,HP FrontRange
+dc5719wap56,System,,DXC Infrastructure
+dc5719wap56,Purpose,,Tenncare DC SiteScope Server
+dc5719wap57,System,,DXC Infrastructure
+dc5719wap57,Purpose,,"New Print server for Jetadmin
+replaced .51"
+dc5719wap57,Supportgroup,,Vendor IT Support
+dc5719wap60,System,,TPrime
+dc5719wap60,Purpose,,T-Prime Dev
+dc5719wap60,Supportgroup,,MMIS Support INF Windows
+dc5719wap61,System,,SharePoint
+dc5719wap61,Purpose,,Sharepoint
+dc5719wap61,Supportgroup,,MMIS Support INF Windows
+dc5719wap65,System,,Decision Analytics
+dc5719wap65,Purpose,,Decision Analytics
+dc5719wap65,Supportgroup,,MMIS Support INF Windows
+dc5719wap67,System,,SharePoint
+dc5719wap67,Purpose,,Sharepoint
+dc5719wap67,Supportgroup,,MMIS Support INF Windows
+dc5719wap68,System,,SharePoint
+dc5719wap68,Purpose,,SharePoint 2012 Cluster Host 1
+dc5719wap68,Supportgroup,,MMIS Support INF Windows
+dc5719wap69,System,,SharePoint
+dc5719wap69,Purpose,,SharePoint 2012 Cluster Host 2
+dc5719wap69,Supportgroup,,MMIS Support INF Windows
+dc5719wap70,System,,FIS - Formworks 5
+dc5719wap70,Purpose,,FIS - Formworks 5
+dc5719wap70,Supportgroup,,Vendor IT Support
+dc5719wap71,System,,FIS - Formworks 5
+dc5719wap71,Purpose,,FIS - Formworks 5
+dc5719wap71,Supportgroup,,Vendor IT Support
+dc5719wap72,System,,FIS - Formworks 5
+dc5719wap72,Purpose,,Application Server
+dc5719wap72,Supportgroup,,Vendor IT Support
+dc5719wap73,System,,FIS - Formworks 5
+dc5719wap73,Purpose,,FIS - Formworks 5
+dc5719wap73,Supportgroup,,Vendor IT Support
+dc5719wap74,System,,FIS - Formworks 5
+dc5719wap74,Purpose,,FIS - Formworks 5
+dc5719wap74,Supportgroup,,Vendor IT Support
+dc5719wap75,System,,FIS - Formworks 5
+dc5719wap75,Purpose,,FIS - Formworks 5
+dc5719wap75,Supportgroup,,Vendor IT Support
+dc5719wap76,System,,FIS - Formworks 5
+dc5719wap76,Purpose,,FIS - Formworks 5
+dc5719wap76,Supportgroup,,Vendor IT Support
+dc5719wap77,System,,FIS - Formworks 5
+dc5719wap77,Purpose,,FIS - Formworks 5
+dc5719wap77,Supportgroup,,Vendor IT Support
+dc5719wap97,System,,DXC Infrastructure
+dc5719wap97,Purpose,,DEV .Net Solutions (Web Services & Console Apps)
+dc5719wap97,Supportgroup,,Vendor IT Support
+dc5719wat119,System,,MMIS
+dc5719wat119,Purpose,,2012R2 Oracle Data Modeler/PAL
+dc5719wat119,Supportgroup,,Vendor IT Support
+dc5719wb02,System,,ProLaw
+dc5719wb02,Purpose,,ProLaw non-prod
+dc5719wb02,Supportgroup,,Vendor IT Support
+dc5719wb62,System,,SharePoint
+dc5719wb62,Purpose,,Sharepoint DEV SQL
+dc5719wb62,Supportgroup,,MMIS Support INF Windows
+dc5719wbb161,System,,DXC Infrastructure
+dc5719wbb161,Purpose,,SQL Cluster
+dc5719wbb161,Supportgroup,,MMIS Support INF Windows
+dc5719wbb162,System,,DXC Infrastructure
+dc5719wbb162,Purpose,,SQL Cluster
+dc5719wbb162,Supportgroup,,MMIS Support INF Windows
+dc5719wbb164,System,,MMIS
+dc5719wbb164,Purpose,,File Server (SSAS)
+dc5719wbb164,Supportgroup,,MMIS Support INF Windows
+dc5719wbb165,System,,MMIS
+dc5719wbb165,Purpose,,File Server (SSIS)
+dc5719wbb165,Supportgroup,,MMIS Support INF Windows
+dc5719wbb166,System,,DXC Infrastructure
+dc5719wbb166,Purpose,,SQL Server
+dc5719wbb166,Supportgroup,,MMIS Support INF Windows
+dc5719wbb30,System,,DXC Infrastructure
+dc5719wbb30,Purpose,,"VMWare Application Extension server
+VMWare Update Manager Server
+VMWare Download Server
+Brocade Oneview SAN Manager Server
+Oneview vCenter Extension Server"
+dc5719wbb30,Supportgroup,,Vendor IT Support
+dc5719wdb122,System,,DXC Infrastructure
+dc5719wdb122,Purpose,,Tenncare Shared SQL Server
+dc5719wdb122,Supportgroup,,Vendor IT Support
+dc5719wfs10,System,,DXC Infrastructure
+dc5719wfs10,Purpose,,Pharmacy Archive HDD Export Server
+dc5719wfs10,Supportgroup,,Vendor IT Support
+dc5719wl01313-t,System,,DXC Infrastructure
+dc5719wl01313-t,Purpose,,Production machine for Checkpoint and Ghost.
+dc5719wss180,System,,MMIS
+dc5719wss180,Purpose,,State Share
+dc5719wss180,Supportgroup,,MMIS Support INF Windows
+dc5719wwa110,System,,DXC Infrastructure
+dc5719wwa110,Purpose,,TennCare Intranet
+dc5719wwa110,Supportgroup,,Vendor IT Support
+dc5719wwa111,System,,DXC Infrastructure
+dc5719wwa111,Purpose,,PWB NET Webserver
+dc5719wwa155,System,,DXC Infrastructure
+dc5719wwa155,Purpose,,DSi Hold Dev Server
+dc5719wwa155,Supportgroup,,Vendor IT Support
+dc5719wwa156,System,,DXC Infrastructure
+dc5719wwa156,Purpose,,DSi RGC PROD Server
+dc5719wwa156,Supportgroup,,Vendor IT Support
+dc5719wwa157,Supportgroup,,Vendor IT Support
+dc5719wwp210,System,,TCOS - TN Anytime
+dc5719wwp210,Purpose,,TCOS - TN Anytime
+dc5719wwp210,Supportgroup,,Vendor IT Support
+dc5719wwp211,System,,TCOS - TN Anytime
+dc5719wwp211,Purpose,,TCOS - TN Anytime
+dc5719wwp211,Supportgroup,,Vendor IT Support
+dc5719wwp212,System,,TCOS - TN Anytime
+dc5719wwp212,Purpose,,TCOS - TN Anytime
+dc5719wwp212,Supportgroup,,Vendor IT Support
+dc5719wwp213,System,,TCOS - TN Anytime
+dc5719wwp213,Purpose,,TCOS - TN Anytime
+dc5719wwp213,Supportgroup,,Vendor IT Support
+dc5719wwp214,System,,TCOS - TN Anytime
+dc5719wwp214,Purpose,,TCOS - TN Anytime
+dc5719wwp214,Supportgroup,,Vendor IT Support
+dc5719wwp215,System,,TCOS - TN Anytime
+dc5719wwp215,Purpose,,TCOS - TN Anytime
+dc5719wwp215,Supportgroup,,Vendor IT Support
+dc5719wwp216,System,,TCOS - TN Anytime
+dc5719wwp216,Purpose,,TCOS - TN Anytime
+dc5719wwp216,Supportgroup,,Vendor IT Support
+dc5719wwp224,System,,MMIS
+dc5719wwp224,Purpose,,TCOS
+dc5719wwp224,Supportgroup,,Vendor IT Support
+DC5719WWP35,System,,TCOS - TN Anytime
+DC5719WWP35,Purpose,,TCOS - TN Anytime
+DC5719WWP35,Supportgroup,,Unix Admin
+dc5719wwp40,System,,TCOS - TN Anytime
+dc5719wwp40,Purpose,,TCOS - TN Anytime
+dc5719wwp40,Supportgroup,,Vendor IT Support
+dc5719wwp41,System,,TCOS - TN Anytime
+dc5719wwp41,Purpose,,TCOS - TN Anytime
+dc5719wwp41,Supportgroup,,Vendor IT Support
+dc5719wwp43,System,,TCOS - TN Anytime
+dc5719wwp43,Purpose,,TCOS - TN Anytime
+dc5719wwp43,Supportgroup,,Vendor IT Support
+DC5719WWP44,System,,TCOS - TN Anytime
+DC5719WWP44,Purpose,,TCOS - TN Anytime
+DC5719WWP44,Supportgroup,,Vendor IT Support
+dc5719wwp45,System,,TCOS - TN Anytime
+dc5719wwp45,Purpose,,TCOS - TN Anytime
+dc5719wwp45,Supportgroup,,Vendor IT Support
+dc5719wwp46,System,,TCOS - TN Anytime
+dc5719wwp46,Purpose,,TCOS - TN Anytime
+dc5719wwp46,Supportgroup,,Vendor IT Support
+dc5719wwp47,System,,TCOS - TN Anytime
+dc5719wwp47,Purpose,,TCOS - TN Anytime
+dc5719wwp47,Supportgroup,,Vendor IT Support
+dc5719wwp48,System,,TCOS - TN Anytime
+dc5719wwp48,Purpose,,TCOS - TN Anytime
+dc5719wwp48,Supportgroup,,Vendor IT Support
+dc5719wws140,System,,DXC Infrastructure
+dc5719wws140,Purpose,,IIS (StaffMap) SQL Server
+dc5719wws140,Supportgroup,,Vendor IT Support
+OV4VC-9.0.0.1181,System,,DXC Infrastructure
+OV4VC-9.0.0.1181,Purpose,,HPE OneView for VMware vCenter
+OV4VC-9.0.0.1181,Supportgroup,,MMIS Support INF Windows
+sgprd47calbas01,System,,DXC Infrastructure
+sgprd47calbas01,Purpose,,TennCare Call Recording
+tennacccwdstk,System,,Azure Analytics
+tennacccwdstk,Purpose,,CrowdStrike
+tennacccwdstk,Supportgroup,,Azure SW Admin GWT
+tnxixcpctr1,Supportgroup,,Azure SW Admin GWT
+tnxixcpctr2,Supportgroup,,Azure SW Admin GWT
+tnxixcpmgm01,Supportgroup,,Azure SW Admin GWT
+tnxixe1warc001,System,,Security
+tnxixe1warc001,Purpose,,Azure Analytics
+tnxixe1warc001,Supportgroup,,Azure SW Admin GWT
+tnxixe1wccs001,System,,Security
+tnxixe1wccs001,Purpose,,Azure Analytics
+tnxixe1wccs001,Supportgroup,,Azure SW Admin GWT
+tnxixe1wd001,System,,VM AD Domain Controller
+tnxixe1wd001,Purpose,,Azure Analytics
+tnxixe1wd001,Supportgroup,,Azure SW Admin GWT
+tnxixe1wd002,System,,VM AD Backup Domain Controller
+tnxixe1wd002,Purpose,,Azure Analytics
+tnxixe1wd002,Supportgroup,,Azure SW Admin GWT
+tnxixe1wmgm001,System,,VM AD Mgt. Server (Restricted)
+tnxixe1wmgm001,Purpose,,Azure Analytics
+tnxixe1wmgm001,Supportgroup,,Azure SW Admin GWT
+tnxixe1wqly001,System,,Azure Analytics
+tnxixe1wqly001,Purpose,,Security
+tnxixe1wqly001,Supportgroup,,Azure SW Admin GWT
+vmdeveueoc01,System,,Azure Analytics
+vmdeveueoc01,Purpose,,RHEL 8 EOC migration dev
+vmdeveueoc01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmdeveusas01,System,,Azure Analytics
+vmdeveusas01,Purpose,,SAS Server (DEV)
+vmdeveusas01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmdeveusas02,System,,Azure Analytics
+vmdeveusas02,Purpose,,SAS Server (DEV)
+vmdeveusas02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmdeveusas03,System,,Azure Analytics
+vmdeveusas03,Purpose,,SAS Server (DEV)
+vmdeveusas03,Supportgroup,,MMIS Support Data Warehouse Azure
+vmdeveusas04,System,,Azure Analytics
+vmdeveusas04,Purpose,,SAS Server (DEV)
+vmdeveusas04,Supportgroup,,MMIS Support Data Warehouse Azure
+vmdeveutab01,System,,Azure Analytics
+vmdeveutab01,Purpose,,Tableau development server
+vmdeveutab01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuadmin01,System,,Azure Analytics
+vmprdeuadmin01,Purpose,,admin workstation
+vmprdeuadmin01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuans01,System,,Azure Analytics
+vmprdeuans01,Purpose,,SAS Server (DEV)
+vmprdeuans01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeucat01,System,,Azure Analytics
+vmprdeucat01,Purpose,,CIS CAT Pro security compliance workstation
+vmprdeucat01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeudc02,System,,Azure Analytics
+vmprdeudc02,Purpose,,Azure Domain Controller
+vmprdeudc02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeudgw01,System,,Azure Analytics
+vmprdeudgw01,Purpose,,Azure on-premises data gateway
+vmprdeudgw01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeudgw02,System,,Azure Analytics
+vmprdeudgw02,Purpose,,Azure on-premises data gateway
+vmprdeudgw02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuds01,System,,Azure Analytics
+vmprdeuds01,Purpose,,data science PROD runtime host
+vmprdeuds01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeueoc01,System,,Azure Analytics
+vmprdeueoc01,Purpose,,EOC Server
+vmprdeueoc01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeueoc02,System,,Azure Analytics
+vmprdeueoc02,Purpose,,EOC Server
+vmprdeueoc02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeueoc03,System,,Azure Analytics
+vmprdeueoc03,Purpose,,EOC Server
+vmprdeueoc03,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeujump01,System,,Azure Analytics
+vmprdeujump01,Purpose,,Jumpbox server for firewall management
+vmprdeujump01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeupa02,System,,Azure Analytics
+vmprdeupa02,Purpose,,Firewall virtual machine
+vmprdeupa02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeupa03,System,,Azure Analytics
+vmprdeupa03,Purpose,,Firewall virtual machine
+vmprdeupa03,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeupa04,System,,Azure Analytics
+vmprdeupa04,Purpose,,Firewall virtual machine
+vmprdeupa04,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeupa05,System,,Azure Analytics
+vmprdeupa05,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeurds01,System,,Azure Analytics
+vmprdeurds01,Purpose,,terminal services management host
+vmprdeurds01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeurds10,System,,Azure Analytics
+vmprdeurds10,Purpose,,terminal services PROD session host
+vmprdeurds10,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeusas01,System,,Azure Analytics
+vmprdeusas01,Purpose,,SAS Server (PRD)
+vmprdeusas01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeusas02,System,,Azure Analytics
+vmprdeusas02,Purpose,,SAS Server (PRD)
+vmprdeusas02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeusas03,System,,Azure Analytics
+vmprdeusas03,Purpose,,SAS Server (PRD)
+vmprdeusas03,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeusas04,System,,Azure Analytics
+vmprdeusas04,Purpose,,SAS Server (PRD)
+vmprdeusas04,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuspk01,System,,Azure Analytics
+vmprdeuspk01,Purpose,,Spunk Heavy Forwarder
+vmprdeuspk01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuspk02,System,,Azure Analytics
+vmprdeuspk02,Purpose,,Spunk Heavy Forwarder
+vmprdeuspk02,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuspk03,System,,Azure Analytics
+vmprdeuspk03,Purpose,,Spunk Distribution Server
+vmprdeuspk03,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeuspk04,System,,Azure Analytics
+vmprdeuspk04,Purpose,,Splunk heavy forwarder managed by Gainwell
+vmprdeuspk04,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeustw01,System,,Azure Analytics
+vmprdeustw01,Purpose,,TripWire Server
+vmprdeustw01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmprdeutab01,System,,Tableau (EOC)
+vmprdeutab01,Purpose,,Azure Tableau (EOC)
+vmprdeutab01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmsbxeuadmin01,System,,Azure Analytics
+vmsbxeuadmin01,Purpose,,admin server in sandbox environment
+vmsbxeuadmin01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmsbxeuds01,System,,Azure Analytics
+vmsbxeuds01,Purpose,,data science SAND runtime host
+vmsbxeuds01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmuateuds01,System,,Azure Analytics
+vmuateuds01,Purpose,,data science UAT runtime host
+vmuateuds01,Supportgroup,,MMIS Support Data Warehouse Azure
+vmuateurds10,System,,Azure Analytics
+vmuateurds10,Purpose,,terminal services UAT session host
+vmuateurds10,Supportgroup,,MMIS Support Data Warehouse Azure
+win-2ijjqtt29ru,System,,DXC Infrastructure
+win-2ijjqtt29ru,Purpose,,VM Templates

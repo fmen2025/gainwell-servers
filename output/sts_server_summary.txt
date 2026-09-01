@@ -1,0 +1,60 @@
+-- ============================================================================
+-- SUMMARY REPORT: Excel ServerNames vs sts.server table
+-- Generated: 2026-08-26
+-- =================================================================
+
+REPORT SUMMARY
+==============
+
+Source Data:
+  - File: Gainwell Servers_20260820.xlsx (data tab)
+  - Column: Name
+  - Total servers extracted: 951 (excluding "(unknown)")
+  - Date range: All rows with valid server names
+
+Target Database:
+  - Server: sts.server table
+  - Comparison type: Case-insensitive matching of Servername column
+
+== SQL QUERIES GENERATED ==
+
+File: sts_server_comparison.sql
+Contains 3 executable queries:
+
+1. QUERY 1 - COUNT MATCHING SERVERS
+   Purpose: Returns single number - how many Excel servers exist in sts.server
+   Output: One row with count of matching servers
+   
+2. QUERY 2 - LIST MATCHING SERVERS
+   Purpose: Returns list of server names that exist in both Excel and sts.server
+   Output: One row per matching server, ordered alphabetically
+   
+3. QUERY 3 - LIST MISSING SERVERS
+   Purpose: Returns list of server names from Excel that DO NOT exist in sts.server
+   Output: One row per missing server, ordered alphabetically
+
+== HOW TO USE ==
+
+1. Open SQL Server Management Studio
+2. Connect to your database server where sts.server table exists
+3. Open file: c:\projects\GainwellServers_20260820\output\sts_server_comparison.sql
+4. Run each query separately to get results:
+   - Run QUERY 1 to see the count
+   - Run QUERY 2 to see which servers match
+   - Run QUERY 3 to see which servers are missing
+
+== INTERPRETING RESULTS ==
+
+If QUERY 1 returns:
+  - 0 = No Excel servers exist in sts.server (complete mismatch)
+  - 951 = All Excel servers exist in sts.server (complete match)
+  - 100-900 = Partial match (some servers exist, some don't)
+
+QUERY 2 output = Servers that are safe to reference (exist in sts.server)
+QUERY 3 output = Servers that may need to be added to sts.server
+
+== FILE LOCATIONS ==
+
+Source Excel: C:\Feven\Hanna\2026\Gainwell Servers_20260820.xlsx
+SQL queries: c:\projects\GainwellServers_20260820\output\sts_server_comparison.sql
+Report: c:\projects\GainwellServers_20260820\output\sts_server_summary.txt (this file)
