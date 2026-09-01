@@ -5,6 +5,8 @@ All notable changes to the Gainwell Servers project are documented here.
 ## [2026-09-01] - System Column Analysis & GitHub Setup
 
 ### Added
+- **README.md**: Comprehensive project documentation with setup instructions, column mapping reference, usage examples, and troubleshooting guide
+- **Pre-commit Hook**: Automated Git hook requiring changelog.md updates before every commit
 - **System Column Analysis** (`System_analysis_query.sql`): Comprehensive SQL query to analyze Excel System column values against all sts.server table columns (System, ServerDescription, ServerType, PrimaryFunction, ApplicationName, Environment)
 - **Analysis Scripts**:
   - `analyze_system.ps1`: PowerShell script to extract and analyze System column values from SQL updates
